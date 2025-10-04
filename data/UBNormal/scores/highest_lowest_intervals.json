@@ -1,0 +1,3378 @@
+{
+    "normal_scene_20_scenario_2.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.053,
+        "std": 0.12037,
+        "avg_high_group": 0.236,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.236
+    },
+    "abnormal_scene_13_scenario_2_fog.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.321,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.16716,
+        "avg_high_group": 0.387,
+        "avg_low_group": 0.1,
+        "gap_high_low": 0.287
+    },
+    "abnormal_scene_17_scenario_4.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.463,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.29982,
+        "avg_high_group": 0.736,
+        "avg_low_group": 0.178,
+        "gap_high_low": 0.559
+    },
+    "abnormal_scene_12_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.084,
+        "std": 0.11592,
+        "avg_high_group": 0.223,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.217
+    },
+    "abnormal_scene_8_scenario_2_fog.mp4": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.174,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13793,
+        "avg_high_group": 0.247,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.247
+    },
+    "normal_scene_5_scenario_8.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.15,
+        "std": 0.11193,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.233
+    },
+    "abnormal_scene_3_scenario_2.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.343,
+        "lowest_interval": [
+            208,
+            508
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16351,
+        "avg_high_group": 0.369,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.369
+    },
+    "abnormal_scene_14_scenario_8.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.325,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15219,
+        "avg_high_group": 0.296,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.296
+    },
+    "abnormal_scene_26_scenario_2.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.368,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.13284,
+        "avg_high_group": 0.404,
+        "avg_low_group": 0.167,
+        "gap_high_low": 0.238
+    },
+    "normal_scene_21_scenario_3.mp4": {
+        "highest_interval": [
+            320,
+            620
+        ],
+        "highest_avg_score": 0.178,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11332,
+        "avg_high_group": 0.226,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.226
+    },
+    "abnormal_scene_13_scenario_4_fog.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20861,
+        "avg_high_group": 0.353,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.353
+    },
+    "abnormal_scene_6_scenario_8.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.55,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.242,
+        "std": 0.1864,
+        "avg_high_group": 0.486,
+        "avg_low_group": 0.167,
+        "gap_high_low": 0.319
+    },
+    "abnormal_scene_17_scenario_1_smoke.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.20154,
+        "avg_high_group": 0.475,
+        "avg_low_group": 0.129,
+        "gap_high_low": 0.346
+    },
+    "normal_scene_8_scenario_2_fog.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.184,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.071,
+        "std": 0.11925,
+        "avg_high_group": 0.241,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.216
+    },
+    "abnormal_scene_23_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.121,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11426,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "abnormal_scene_7_scenario_1_fog.mp4": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.189,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12152,
+        "avg_high_group": 0.224,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.224
+    },
+    "normal_scene_21_scenario_2.mp4": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.243,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.12172,
+        "avg_high_group": 0.267,
+        "avg_low_group": 0.038,
+        "gap_high_low": 0.229
+    },
+    "abnormal_scene_22_scenario_1.mp4": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.353,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.22379,
+        "avg_high_group": 0.379,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.369
+    },
+    "abnormal_scene_7_scenario_1.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.119,
+        "std": 0.10522,
+        "avg_high_group": 0.222,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.202
+    },
+    "abnormal_scene_19_scenario_7.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.058,
+        "std": 0.09443,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.182
+    },
+    "abnormal_scene_18_scenario_6.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.205,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14268,
+        "avg_high_group": 0.265,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.256
+    },
+    "abnormal_scene_10_scenario_3.mp4": {
+        "highest_interval": [
+            384,
+            684
+        ],
+        "highest_avg_score": 0.114,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.08951,
+        "avg_high_group": 0.167,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.167
+    },
+    "abnormal_scene_11_scenario_1_fog.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            304,
+            604
+        ],
+        "lowest_avg_score": 0.06,
+        "std": 0.21346,
+        "avg_high_group": 0.331,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.331
+    },
+    "abnormal_scene_7_scenario_7.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.11825,
+        "avg_high_group": 0.231,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.216
+    },
+    "abnormal_scene_19_scenario_6.mp4": {
+        "highest_interval": [
+            384,
+            684
+        ],
+        "highest_avg_score": 0.48,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.232,
+        "std": 0.19384,
+        "avg_high_group": 0.5,
+        "avg_low_group": 0.172,
+        "gap_high_low": 0.328
+    },
+    "abnormal_scene_6_scenario_2.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.45,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.229,
+        "std": 0.17745,
+        "avg_high_group": 0.46,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.327
+    },
+    "normal_scene_26_scenario_8.mp4": {
+        "highest_interval": [
+            368,
+            668
+        ],
+        "highest_avg_score": 0.083,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10861,
+        "avg_high_group": 0.222,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.222
+    },
+    "abnormal_scene_15_scenario_4.mp4": {
+        "highest_interval": [
+            480,
+            780
+        ],
+        "highest_avg_score": 0.35,
+        "lowest_interval": [
+            144,
+            444
+        ],
+        "lowest_avg_score": 0.221,
+        "std": 0.14787,
+        "avg_high_group": 0.365,
+        "avg_low_group": 0.113,
+        "gap_high_low": 0.251
+    },
+    "abnormal_scene_2_scenario_5.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.75,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.516,
+        "std": 0.18735,
+        "avg_high_group": 0.743,
+        "avg_low_group": 0.459,
+        "gap_high_low": 0.284
+    },
+    "abnormal_scene_10_scenario_1.mp4": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.257,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.105,
+        "std": 0.17103,
+        "avg_high_group": 0.288,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.28
+    },
+    "abnormal_scene_7_scenario_9.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            256,
+            556
+        ],
+        "lowest_avg_score": 0.062,
+        "std": 0.09994,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "abnormal_scene_25_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.216,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.17536,
+        "avg_high_group": 0.283,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.283
+    },
+    "normal_scene_10_scenario_2.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08517,
+        "avg_high_group": 0.17,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.17
+    },
+    "normal_scene_14_scenario_4.mp4": {
+        "highest_interval": [
+            96,
+            396
+        ],
+        "highest_avg_score": 0.216,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1323,
+        "avg_high_group": 0.26,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.26
+    },
+    "abnormal_scene_29_scenario_2_smoke.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.325,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.084,
+        "std": 0.1632,
+        "avg_high_group": 0.42,
+        "avg_low_group": 0.096,
+        "gap_high_low": 0.324
+    },
+    "abnormal_scene_20_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.274,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.15,
+        "std": 0.20278,
+        "avg_high_group": 0.442,
+        "avg_low_group": 0.118,
+        "gap_high_low": 0.324
+    },
+    "abnormal_scene_1_scenario_6.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.29,
+        "lowest_interval": [
+            96,
+            396
+        ],
+        "lowest_avg_score": 0.175,
+        "std": 0.12207,
+        "avg_high_group": 0.357,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.224
+    },
+    "abnormal_scene_13_scenario_3.mp4": {
+        "highest_interval": [
+            144,
+            444
+        ],
+        "highest_avg_score": 0.379,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.267,
+        "std": 0.17951,
+        "avg_high_group": 0.477,
+        "avg_low_group": 0.181,
+        "gap_high_low": 0.296
+    },
+    "abnormal_scene_29_scenario_2.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.125,
+        "std": 0.19402,
+        "avg_high_group": 0.478,
+        "avg_low_group": 0.14,
+        "gap_high_low": 0.338
+    },
+    "abnormal_scene_11_scenario_1.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.175,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16247,
+        "avg_high_group": 0.279,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.279
+    },
+    "normal_scene_22_scenario_5.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.158,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15613,
+        "avg_high_group": 0.267,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.267
+    },
+    "abnormal_scene_9_scenario_8.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.233,
+        "lowest_interval": [
+            320,
+            620
+        ],
+        "lowest_avg_score": 0.122,
+        "std": 0.14483,
+        "avg_high_group": 0.261,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.261
+    },
+    "abnormal_scene_4_scenario_4.mp4": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.342,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.1864,
+        "avg_high_group": 0.394,
+        "avg_low_group": 0.091,
+        "gap_high_low": 0.304
+    },
+    "abnormal_scene_6_scenario_3.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.45,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20424,
+        "avg_high_group": 0.444,
+        "avg_low_group": 0.073,
+        "gap_high_low": 0.372
+    },
+    "normal_scene_9_scenario_6.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.132,
+        "std": 0.12462,
+        "avg_high_group": 0.333,
+        "avg_low_group": 0.113,
+        "gap_high_low": 0.22
+    },
+    "abnormal_scene_10_scenario_8.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.105,
+        "std": 0.24828,
+        "avg_high_group": 0.62,
+        "avg_low_group": 0.087,
+        "gap_high_low": 0.533
+    },
+    "abnormal_scene_8_scenario_5.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.24,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14832,
+        "avg_high_group": 0.263,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.263
+    },
+    "abnormal_scene_19_scenario_8.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.242,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.04,
+        "std": 0.1864,
+        "avg_high_group": 0.325,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.325
+    },
+    "abnormal_scene_28_scenario_4.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.363,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14856,
+        "avg_high_group": 0.322,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.322
+    },
+    "abnormal_scene_7_scenario_3.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.092,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10628,
+        "avg_high_group": 0.209,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.209
+    },
+    "abnormal_scene_17_scenario_9.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.15,
+        "std": 0.13113,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.157,
+        "gap_high_low": 0.243
+    },
+    "abnormal_scene_8_scenario_1.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.19679,
+        "avg_high_group": 0.314,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.3
+    },
+    "abnormal_scene_18_scenario_7.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.53,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.395,
+        "std": 0.14268,
+        "avg_high_group": 0.56,
+        "avg_low_group": 0.314,
+        "gap_high_low": 0.246
+    },
+    "abnormal_scene_7_scenario_6.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.1098,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.203
+    },
+    "abnormal_scene_27_scenario_3.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.333,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.17711,
+        "avg_high_group": 0.34,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.315
+    },
+    "normal_scene_9_scenario_1.mp4": {
+        "highest_interval": [
+            320,
+            620
+        ],
+        "highest_avg_score": 0.211,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.084,
+        "std": 0.10795,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.203
+    },
+    "abnormal_scene_13_scenario_5.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            176,
+            476
+        ],
+        "lowest_avg_score": 0.094,
+        "std": 0.19887,
+        "avg_high_group": 0.467,
+        "avg_low_group": 0.095,
+        "gap_high_low": 0.372
+    },
+    "normal_scene_25_scenario_4.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.237,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14605,
+        "avg_high_group": 0.28,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.28
+    },
+    "abnormal_scene_16_scenario_3.mp4": {
+        "highest_interval": [
+            368,
+            668
+        ],
+        "highest_avg_score": 0.333,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.189,
+        "std": 0.13103,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.141,
+        "gap_high_low": 0.209
+    },
+    "normal_scene_4_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.163,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13477,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.25
+    },
+    "normal_scene_7_scenario_3_fog.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.063,
+        "std": 0.13149,
+        "avg_high_group": 0.275,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.265
+    },
+    "abnormal_scene_2_scenario_4.mp4": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.1653,
+        "avg_high_group": 0.309,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.292
+    },
+    "abnormal_scene_4_scenario_1_fire.mp4": {
+        "highest_interval": [
+            368,
+            668
+        ],
+        "highest_avg_score": 0.767,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.5,
+        "std": 0.17637,
+        "avg_high_group": 0.779,
+        "avg_low_group": 0.46,
+        "gap_high_low": 0.319
+    },
+    "abnormal_scene_22_scenario_2.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            208,
+            508
+        ],
+        "lowest_avg_score": 0.075,
+        "std": 0.10414,
+        "avg_high_group": 0.214,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.194
+    },
+    "abnormal_scene_1_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.075,
+        "std": 0.13031,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.023,
+        "gap_high_low": 0.233
+    },
+    "abnormal_scene_1_scenario_1.mp4": {
+        "highest_interval": [
+            96,
+            396
+        ],
+        "highest_avg_score": 0.233,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.137,
+        "std": 0.10657,
+        "avg_high_group": 0.217,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.217
+    },
+    "abnormal_scene_29_scenario_3.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.586,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.3,
+        "std": 0.21551,
+        "avg_high_group": 0.736,
+        "avg_low_group": 0.339,
+        "gap_high_low": 0.397
+    },
+    "normal_scene_3_scenario_1.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.12589,
+        "avg_high_group": 0.364,
+        "avg_low_group": 0.167,
+        "gap_high_low": 0.197
+    },
+    "abnormal_scene_5_scenario_8.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.375,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.205,
+        "std": 0.15697,
+        "avg_high_group": 0.378,
+        "avg_low_group": 0.123,
+        "gap_high_low": 0.255
+    },
+    "abnormal_scene_24_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.295,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.22326,
+        "avg_high_group": 0.385,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.385
+    },
+    "normal_scene_24_scenario_1.mp4": {
+        "highest_interval": [
+            96,
+            396
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13741,
+        "avg_high_group": 0.263,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.243
+    },
+    "abnormal_scene_20_scenario_3.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.08,
+        "std": 0.17596,
+        "avg_high_group": 0.325,
+        "avg_low_group": 0.011,
+        "gap_high_low": 0.314
+    },
+    "abnormal_scene_20_scenario_4.mp4": {
+        "highest_interval": [
+            192,
+            492
+        ],
+        "highest_avg_score": 0.182,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.17535,
+        "avg_high_group": 0.323,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.323
+    },
+    "abnormal_scene_15_scenario_6.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.25,
+        "std": 0.16716,
+        "avg_high_group": 0.471,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.271
+    },
+    "abnormal_scene_12_scenario_1.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15674,
+        "avg_high_group": 0.269,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.261
+    },
+    "abnormal_scene_1_scenario_2.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            144,
+            444
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14832,
+        "avg_high_group": 0.333,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.333
+    },
+    "abnormal_scene_26_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23635,
+        "avg_high_group": 0.395,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.395
+    },
+    "abnormal_scene_11_scenario_8.mp4": {
+        "highest_interval": [
+            96,
+            396
+        ],
+        "highest_avg_score": 0.295,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15336,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.286
+    },
+    "abnormal_scene_10_scenario_5.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.237,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20827,
+        "avg_high_group": 0.362,
+        "avg_low_group": 0.019,
+        "gap_high_low": 0.343
+    },
+    "abnormal_scene_27_scenario_4.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.442,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.35,
+        "std": 0.13646,
+        "avg_high_group": 0.479,
+        "avg_low_group": 0.25,
+        "gap_high_low": 0.229
+    },
+    "abnormal_scene_12_scenario_9.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11724,
+        "avg_high_group": 0.221,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.221
+    },
+    "abnormal_scene_21_scenario_3.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.3,
+        "std": 0.17671,
+        "avg_high_group": 0.521,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.321
+    },
+    "abnormal_scene_13_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.295,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.16056,
+        "avg_high_group": 0.394,
+        "avg_low_group": 0.138,
+        "gap_high_low": 0.255
+    },
+    "normal_scene_9_scenario_4_fog.mp4": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.025,
+        "std": 0.14318,
+        "avg_high_group": 0.286,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.261
+    },
+    "abnormal_scene_7_scenario_2.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.207,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.17345,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.293
+    },
+    "normal_scene_20_scenario_9.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.084,
+        "std": 0.19193,
+        "avg_high_group": 0.429,
+        "avg_low_group": 0.045,
+        "gap_high_low": 0.383
+    },
+    "abnormal_scene_3_scenario_6.mp4": {
+        "highest_interval": [
+            368,
+            668
+        ],
+        "highest_avg_score": 0.467,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.295,
+        "std": 0.15666,
+        "avg_high_group": 0.479,
+        "avg_low_group": 0.22,
+        "gap_high_low": 0.259
+    },
+    "normal_scene_20_scenario_4.mp4": {
+        "highest_interval": [
+            224,
+            524
+        ],
+        "highest_avg_score": 0.18,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12967,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.233
+    },
+    "abnormal_scene_11_scenario_2.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.289,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.04,
+        "std": 0.20861,
+        "avg_high_group": 0.361,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.343
+    },
+    "abnormal_scene_1_scenario_8.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            176,
+            476
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.1639,
+        "avg_high_group": 0.433,
+        "avg_low_group": 0.171,
+        "gap_high_low": 0.262
+    },
+    "normal_scene_23_scenario_5.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.04,
+        "std": 0.12698,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.256
+    },
+    "abnormal_scene_7_scenario_2_fog.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            48,
+            348
+        ],
+        "lowest_avg_score": 0.079,
+        "std": 0.10287,
+        "avg_high_group": 0.208,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.202
+    },
+    "abnormal_scene_29_scenario_1.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.36,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15172,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.044,
+        "gap_high_low": 0.256
+    },
+    "abnormal_scene_4_scenario_2_fire.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.814,
+        "std": 0.10717,
+        "avg_high_group": 0.9,
+        "avg_low_group": 0.731,
+        "gap_high_low": 0.169
+    },
+    "abnormal_scene_9_scenario_4_fog.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            304,
+            604
+        ],
+        "lowest_avg_score": 0.17,
+        "std": 0.10482,
+        "avg_high_group": 0.312,
+        "avg_low_group": 0.148,
+        "gap_high_low": 0.165
+    },
+    "abnormal_scene_18_scenario_5.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.142,
+        "std": 0.1507,
+        "avg_high_group": 0.388,
+        "avg_low_group": 0.119,
+        "gap_high_low": 0.268
+    },
+    "abnormal_scene_17_scenario_7.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.479,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.282,
+        "std": 0.23595,
+        "avg_high_group": 0.542,
+        "avg_low_group": 0.17,
+        "gap_high_low": 0.372
+    },
+    "normal_scene_29_scenario_1.mp4": {
+        "highest_interval": [
+            96,
+            396
+        ],
+        "highest_avg_score": 0.221,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.14125,
+        "avg_high_group": 0.267,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.267
+    },
+    "abnormal_scene_5_scenario_4.mp4": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.126,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11248,
+        "avg_high_group": 0.217,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.217
+    },
+    "normal_scene_10_scenario_3.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.137,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12015,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "abnormal_scene_9_scenario_3.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.147,
+        "std": 0.1381,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.11,
+        "gap_high_low": 0.24
+    },
+    "abnormal_scene_19_scenario_5.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.15,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.11142,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.213
+    },
+    "abnormal_scene_14_scenario_7.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.342,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19012,
+        "avg_high_group": 0.357,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.345
+    },
+    "abnormal_scene_28_scenario_3.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.121,
+        "std": 0.16108,
+        "avg_high_group": 0.363,
+        "avg_low_group": 0.071,
+        "gap_high_low": 0.291
+    },
+    "abnormal_scene_23_scenario_3.mp4": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.114,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13113,
+        "avg_high_group": 0.245,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.245
+    },
+    "normal_scene_23_scenario_4.mp4": {
+        "highest_interval": [
+            64,
+            364
+        ],
+        "highest_avg_score": 0.232,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.04,
+        "std": 0.16328,
+        "avg_high_group": 0.294,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.286
+    },
+    "normal_scene_3_scenario_5.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.13103,
+        "avg_high_group": 0.293,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.293
+    },
+    "normal_scene_18_scenario_4.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.184,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12395,
+        "avg_high_group": 0.24,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.24
+    },
+    "normal_scene_10_scenario_9.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.12081,
+        "avg_high_group": 0.245,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.22
+    },
+    "abnormal_scene_11_scenario_2_fog.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.289,
+        "lowest_interval": [
+            256,
+            556
+        ],
+        "lowest_avg_score": 0.054,
+        "std": 0.21771,
+        "avg_high_group": 0.381,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.374
+    },
+    "normal_scene_21_scenario_5.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.025,
+        "std": 0.15513,
+        "avg_high_group": 0.285,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.285
+    },
+    "abnormal_scene_17_scenario_6.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.7,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.137,
+        "std": 0.18017,
+        "avg_high_group": 0.633,
+        "avg_low_group": 0.169,
+        "gap_high_low": 0.464
+    },
+    "abnormal_scene_5_scenario_5.mp4": {
+        "highest_interval": [
+            464,
+            764
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.085,
+        "std": 0.1155,
+        "avg_high_group": 0.228,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.212
+    },
+    "abnormal_scene_12_scenario_8.mp4": {
+        "highest_interval": [
+            368,
+            668
+        ],
+        "highest_avg_score": 0.333,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.18292,
+        "avg_high_group": 0.329,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.329
+    },
+    "normal_scene_11_scenario_4_fog.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.179,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12182,
+        "avg_high_group": 0.228,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.228
+    },
+    "normal_scene_26_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.11714,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.219
+    },
+    "abnormal_scene_14_scenario_5.mp4": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.371,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.17399,
+        "avg_high_group": 0.438,
+        "avg_low_group": 0.138,
+        "gap_high_low": 0.301
+    },
+    "abnormal_scene_4_scenario_1.mp4": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.183,
+        "lowest_interval": [
+            208,
+            508
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11451,
+        "avg_high_group": 0.213,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.213
+    },
+    "abnormal_scene_28_scenario_2.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.13558,
+        "avg_high_group": 0.254,
+        "avg_low_group": 0.019,
+        "gap_high_low": 0.235
+    },
+    "abnormal_scene_9_scenario_7.mp4": {
+        "highest_interval": [
+            64,
+            364
+        ],
+        "highest_avg_score": 0.221,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11955,
+        "avg_high_group": 0.241,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.227
+    },
+    "normal_scene_23_scenario_7.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.038,
+        "std": 0.1098,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.207
+    },
+    "abnormal_scene_29_scenario_4.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.6,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.295,
+        "std": 0.25781,
+        "avg_high_group": 0.6,
+        "avg_low_group": 0.143,
+        "gap_high_low": 0.457
+    },
+    "abnormal_scene_5_scenario_2_smoke.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.405,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.17738,
+        "avg_high_group": 0.445,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.312
+    },
+    "abnormal_scene_10_scenario_7.mp4": {
+        "highest_interval": [
+            64,
+            364
+        ],
+        "highest_avg_score": 0.137,
+        "lowest_interval": [
+            496,
+            796
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10112,
+        "avg_high_group": 0.194,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.194
+    },
+    "abnormal_scene_10_scenario_6.mp4": {
+        "highest_interval": [
+            496,
+            796
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.126,
+        "std": 0.15959,
+        "avg_high_group": 0.386,
+        "avg_low_group": 0.068,
+        "gap_high_low": 0.318
+    },
+    "normal_scene_3_scenario_7.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.35,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.232,
+        "std": 0.10379,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.176,
+        "gap_high_low": 0.174
+    },
+    "abnormal_scene_14_scenario_6.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.53,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.3,
+        "std": 0.19839,
+        "avg_high_group": 0.619,
+        "avg_low_group": 0.25,
+        "gap_high_low": 0.369
+    },
+    "abnormal_scene_3_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.335,
+        "lowest_interval": [
+            256,
+            556
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14528,
+        "avg_high_group": 0.356,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.356
+    },
+    "abnormal_scene_17_scenario_2_fire.mp4": {
+        "highest_interval": [
+            384,
+            684
+        ],
+        "highest_avg_score": 0.62,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.447,
+        "std": 0.22342,
+        "avg_high_group": 0.677,
+        "avg_low_group": 0.319,
+        "gap_high_low": 0.358
+    },
+    "abnormal_scene_16_scenario_4.mp4": {
+        "highest_interval": [
+            144,
+            444
+        ],
+        "highest_avg_score": 0.326,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.242,
+        "std": 0.16034,
+        "avg_high_group": 0.371,
+        "avg_low_group": 0.117,
+        "gap_high_low": 0.254
+    },
+    "abnormal_scene_7_scenario_5.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.116,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10333,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "abnormal_scene_25_scenario_4.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.405,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.22026,
+        "avg_high_group": 0.463,
+        "avg_low_group": 0.123,
+        "gap_high_low": 0.339
+    },
+    "abnormal_scene_17_scenario_5.mp4": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.26,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14259,
+        "avg_high_group": 0.271,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.271
+    },
+    "abnormal_scene_27_scenario_2_fire.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.668,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.4,
+        "std": 0.20947,
+        "avg_high_group": 0.739,
+        "avg_low_group": 0.317,
+        "gap_high_low": 0.422
+    },
+    "abnormal_scene_7_scenario_1_fire.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.347,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.29887,
+        "avg_high_group": 0.688,
+        "avg_low_group": 0.095,
+        "gap_high_low": 0.592
+    },
+    "abnormal_scene_25_scenario_3.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.363,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23695,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.4
+    },
+    "abnormal_scene_22_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.014,
+        "std": 0.18286,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.295
+    },
+    "normal_scene_28_scenario_2.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.133,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12054,
+        "avg_high_group": 0.227,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.227
+    },
+    "abnormal_scene_21_scenario_1.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.316,
+        "std": 0.1488,
+        "avg_high_group": 0.65,
+        "avg_low_group": 0.28,
+        "gap_high_low": 0.37
+    },
+    "abnormal_scene_7_scenario_3_fog.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.184,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12707,
+        "avg_high_group": 0.235,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.235
+    },
+    "abnormal_scene_15_scenario_9.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            208,
+            508
+        ],
+        "lowest_avg_score": 0.225,
+        "std": 0.12707,
+        "avg_high_group": 0.429,
+        "avg_low_group": 0.209,
+        "gap_high_low": 0.219
+    },
+    "abnormal_scene_13_scenario_1_fog.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.305,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.143,
+        "std": 0.16935,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.12,
+        "gap_high_low": 0.28
+    },
+    "abnormal_scene_24_scenario_3.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.074,
+        "std": 0.11744,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.227
+    },
+    "normal_scene_12_scenario_2.mp4": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.068,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11013,
+        "avg_high_group": 0.26,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.26
+    },
+    "abnormal_scene_7_scenario_8.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.116,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10171,
+        "avg_high_group": 0.193,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.193
+    },
+    "abnormal_scene_2_scenario_1.mp4": {
+        "highest_interval": [
+            176,
+            476
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.06343,
+        "avg_high_group": 0.317,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.117
+    },
+    "normal_scene_17_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.121,
+        "std": 0.0968,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.141,
+        "gap_high_low": 0.209
+    },
+    "abnormal_scene_23_scenario_2.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.12735,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.009,
+        "gap_high_low": 0.241
+    },
+    "abnormal_scene_8_scenario_3.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.295,
+        "lowest_interval": [
+            496,
+            796
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15562,
+        "avg_high_group": 0.292,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.292
+    },
+    "normal_scene_9_scenario_8.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11935,
+        "avg_high_group": 0.212,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.212
+    },
+    "abnormal_scene_10_scenario_4.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1074,
+        "avg_high_group": 0.208,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.208
+    },
+    "abnormal_scene_5_scenario_7.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.10673,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.129,
+        "gap_high_low": 0.171
+    },
+    "abnormal_scene_13_scenario_4.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.35,
+        "lowest_interval": [
+            256,
+            556
+        ],
+        "lowest_avg_score": 0.192,
+        "std": 0.13672,
+        "avg_high_group": 0.373,
+        "avg_low_group": 0.144,
+        "gap_high_low": 0.228
+    },
+    "abnormal_scene_13_scenario_8.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            272,
+            572
+        ],
+        "lowest_avg_score": 0.183,
+        "std": 0.15779,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.147,
+        "gap_high_low": 0.253
+    },
+    "normal_scene_10_scenario_8.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.133,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08912,
+        "avg_high_group": 0.189,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.189
+    },
+    "abnormal_scene_15_scenario_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.258,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.133,
+        "std": 0.19409,
+        "avg_high_group": 0.333,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.308
+    },
+    "abnormal_scene_15_scenario_8.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.379,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.20678,
+        "avg_high_group": 0.45,
+        "avg_low_group": 0.115,
+        "gap_high_low": 0.335
+    },
+    "abnormal_scene_12_scenario_1_smoke.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.195,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15452,
+        "avg_high_group": 0.259,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.259
+    },
+    "abnormal_scene_24_scenario_2.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.6,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.325,
+        "std": 0.19168,
+        "avg_high_group": 0.58,
+        "avg_low_group": 0.253,
+        "gap_high_low": 0.327
+    },
+    "normal_scene_24_scenario_6.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            48,
+            348
+        ],
+        "lowest_avg_score": 0.089,
+        "std": 0.11955,
+        "avg_high_group": 0.238,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.226
+    },
+    "normal_scene_1_scenario1_10.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.146,
+        "lowest_interval": [
+            224,
+            524
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11302,
+        "avg_high_group": 0.211,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.211
+    },
+    "normal_scene_15_scenario_6.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.367,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.16837,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.147,
+        "gap_high_low": 0.253
+    },
+    "normal_scene_4_scenario_5.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.02,
+        "std": 0.08146,
+        "avg_high_group": 0.167,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.167
+    },
+    "normal_scene_4_scenario_8.mp4": {
+        "highest_interval": [
+            288,
+            588
+        ],
+        "highest_avg_score": 0.227,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13497,
+        "avg_high_group": 0.26,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.253
+    },
+    "abnormal_scene_12_scenario_3.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.042,
+        "std": 0.1584,
+        "avg_high_group": 0.283,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.277
+    },
+    "abnormal_scene_27_scenario_2.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            32,
+            332
+        ],
+        "lowest_avg_score": 0.363,
+        "std": 0.10717,
+        "avg_high_group": 0.543,
+        "avg_low_group": 0.323,
+        "gap_high_low": 0.22
+    },
+    "abnormal_scene_8_scenario_4.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.325,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.18665,
+        "avg_high_group": 0.333,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.333
+    },
+    "abnormal_scene_1_scenario_5.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16078,
+        "avg_high_group": 0.285,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.285
+    },
+    "normal_scene_11_scenario_2_fog.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.147,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14872,
+        "avg_high_group": 0.262,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.262
+    },
+    "abnormal_scene_7_scenario_2_smoke.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.137,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11561,
+        "avg_high_group": 0.206,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.206
+    },
+    "abnormal_scene_28_scenario_1.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.053,
+        "std": 0.0997,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.216
+    },
+    "normal_scene_27_scenario_4.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.35,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.214,
+        "std": 0.11013,
+        "avg_high_group": 0.333,
+        "avg_low_group": 0.171,
+        "gap_high_low": 0.162
+    },
+    "abnormal_scene_20_scenario_2.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.326,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.117,
+        "std": 0.16921,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.127,
+        "gap_high_low": 0.273
+    },
+    "normal_scene_8_scenario_7.mp4": {
+        "highest_interval": [
+            64,
+            364
+        ],
+        "highest_avg_score": 0.184,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12987,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.233
+    },
+    "abnormal_scene_15_scenario_3.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.321,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.21257,
+        "avg_high_group": 0.482,
+        "avg_low_group": 0.122,
+        "gap_high_low": 0.36
+    },
+    "abnormal_scene_8_scenario_2.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            272,
+            572
+        ],
+        "lowest_avg_score": 0.092,
+        "std": 0.14041,
+        "avg_high_group": 0.259,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.25
+    },
+    "normal_scene_17_scenario_2.mp4": {
+        "highest_interval": [
+            320,
+            620
+        ],
+        "highest_avg_score": 0.289,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.147,
+        "std": 0.12172,
+        "avg_high_group": 0.425,
+        "avg_low_group": 0.16,
+        "gap_high_low": 0.265
+    },
+    "normal_scene_25_scenario_7.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.121,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12847,
+        "avg_high_group": 0.238,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.238
+    },
+    "abnormal_scene_15_scenario_2.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16211,
+        "avg_high_group": 0.305,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.305
+    },
+    "normal_scene_13_scenario_1_fog.mp4": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.205,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12838,
+        "avg_high_group": 0.253,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.233
+    },
+    "abnormal_scene_22_scenario_3.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.1895,
+        "avg_high_group": 0.321,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.301
+    },
+    "abnormal_scene_4_scenario_6.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.095,
+        "std": 0.13058,
+        "avg_high_group": 0.236,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.236
+    },
+    "abnormal_scene_13_scenario_3_fog.mp4": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.453,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.20278,
+        "avg_high_group": 0.468,
+        "avg_low_group": 0.13,
+        "gap_high_low": 0.338
+    },
+    "abnormal_scene_21_scenario_2.mp4": {
+        "highest_interval": [
+            160,
+            460
+        ],
+        "highest_avg_score": 0.433,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.23201,
+        "avg_high_group": 0.617,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.417
+    },
+    "abnormal_scene_26_scenario_4.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.132,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.14775,
+        "avg_high_group": 0.24,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.24
+    },
+    "abnormal_scene_23_scenario_4.mp4": {
+        "highest_interval": [
+            224,
+            524
+        ],
+        "highest_avg_score": 0.493,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.263,
+        "std": 0.24543,
+        "avg_high_group": 0.567,
+        "avg_low_group": 0.129,
+        "gap_high_low": 0.437
+    },
+    "normal_scene_29_scenario_6.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.112,
+        "std": 0.1153,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.029,
+        "gap_high_low": 0.205
+    },
+    "abnormal_scene_11_scenario_9.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.268,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12976,
+        "avg_high_group": 0.272,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.247
+    },
+    "abnormal_scene_29_scenario_1_smoke.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.127,
+        "std": 0.14638,
+        "avg_high_group": 0.356,
+        "avg_low_group": 0.105,
+        "gap_high_low": 0.251
+    },
+    "abnormal_scene_16_scenario_2.mp4": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.379,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.20833,
+        "avg_high_group": 0.431,
+        "avg_low_group": 0.123,
+        "gap_high_low": 0.308
+    },
+    "abnormal_scene_1_scenario_9.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.073,
+        "std": 0.12318,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.021,
+        "gap_high_low": 0.229
+    },
+    "abnormal_scene_7_scenario_10.mp4": {
+        "highest_interval": [
+            336,
+            636
+        ],
+        "highest_avg_score": 0.15,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09802,
+        "avg_high_group": 0.194,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.194
+    },
+    "abnormal_scene_7_scenario_4.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.11955,
+        "avg_high_group": 0.24,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.235
+    },
+    "abnormal_scene_1_scenario_7.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.34,
+        "lowest_interval": [
+            144,
+            444
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.12806,
+        "avg_high_group": 0.4,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.2
+    },
+    "abnormal_scene_7_scenario_4_fog.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.179,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14483,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.25
+    },
+    "abnormal_scene_5_scenario_1_smoke.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.232,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20667,
+        "avg_high_group": 0.316,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.316
+    },
+    "normal_scene_7_scenario_4_fog.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.208,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13239,
+        "avg_high_group": 0.264,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.244
+    },
+    "abnormal_scene_9_scenario_2_fog.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.129,
+        "std": 0.14975,
+        "avg_high_group": 0.344,
+        "avg_low_group": 0.075,
+        "gap_high_low": 0.269
+    },
+    "abnormal_scene_12_scenario_2.mp4": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.095,
+        "lowest_interval": [
+            384,
+            684
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10639,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "normal_scene_18_scenario_1.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            224,
+            524
+        ],
+        "lowest_avg_score": 0.079,
+        "std": 0.15432,
+        "avg_high_group": 0.271,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.264
+    },
+    "abnormal_scene_17_scenario_2.mp4": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.233,
+        "lowest_interval": [
+            192,
+            492
+        ],
+        "lowest_avg_score": 0.194,
+        "std": 0.09606,
+        "avg_high_group": 0.32,
+        "avg_low_group": 0.168,
+        "gap_high_low": 0.152
+    },
+    "normal_scene_14_scenario_2.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.205,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.16709,
+        "avg_high_group": 0.28,
+        "avg_low_group": 0.011,
+        "gap_high_low": 0.269
+    },
+    "abnormal_scene_27_scenario_1_smoke.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.321,
+        "std": 0.16998,
+        "avg_high_group": 0.575,
+        "avg_low_group": 0.295,
+        "gap_high_low": 0.28
+    },
+    "normal_scene_7_scenario_3.mp4": {
+        "highest_interval": [
+            336,
+            636
+        ],
+        "highest_avg_score": 0.125,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09494,
+        "avg_high_group": 0.171,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.171
+    },
+    "abnormal_scene_8_scenario_1_fog.mp4": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.274,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19727,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.342
+    },
+    "abnormal_scene_26_scenario_3.mp4": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.295,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.15892,
+        "avg_high_group": 0.309,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.292
+    },
+    "abnormal_scene_2_scenario_6.mp4": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.226,
+        "std": 0.20111,
+        "avg_high_group": 0.491,
+        "avg_low_group": 0.135,
+        "gap_high_low": 0.356
+    },
+    "abnormal_scene_24_scenario_4.mp4": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.65,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.22491,
+        "avg_high_group": 0.567,
+        "avg_low_group": 0.117,
+        "gap_high_low": 0.449
+    },
+    "normal_scene_17_scenario_3_1.mp4": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.144,
+        "avg_high_group": 0.265,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.265
+    },
+    "abnormal_scene_15_scenario_5.mp4": {
+        "highest_interval": [
+            400,
+            700
+        ],
+        "highest_avg_score": 0.375,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.179,
+        "std": 0.16108,
+        "avg_high_group": 0.392,
+        "avg_low_group": 0.138,
+        "gap_high_low": 0.255
+    },
+    "abnormal_scene_13_scenario_9.mp4": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.267,
+        "std": 0.18181,
+        "avg_high_group": 0.45,
+        "avg_low_group": 0.131,
+        "gap_high_low": 0.319
+    }
+}

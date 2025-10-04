@@ -1,0 +1,1 @@
+How would you rate the scene on a scale from 0 to 1, where 0 is ordinary and 1 indicates suspicious or criminal activity? In addition, we have identified certain suspicious or criminal behaviors that may appear in the video. Please consider these carefully when deciding on the final anomaly rating.

@@ -1,0 +1,4642 @@
+{
+    "Robbery137_x264": {
+        "highest_interval": [
+            1504,
+            1804
+        ],
+        "highest_avg_score": 0.779,
+        "lowest_interval": [
+            2160,
+            2460
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.38397,
+        "avg_high_group": 0.833,
+        "avg_low_group": 0.096,
+        "gap_high_low": 0.736
+    },
+    "Normal_Videos_879_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.037,
+        "lowest_interval": [
+            992,
+            1292
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06453,
+        "avg_high_group": 0.173,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.173
+    },
+    "Normal_Videos_780_x264": {
+        "highest_interval": [
+            1360,
+            1660
+        ],
+        "highest_avg_score": 0.068,
+        "lowest_interval": [
+            1968,
+            2268
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.07702,
+        "avg_high_group": 0.184,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.184
+    },
+    "Shoplifting044_x264": {
+        "highest_interval": [
+            14544,
+            15998
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            4688,
+            6142
+        ],
+        "lowest_avg_score": 0.151,
+        "std": 0.23293,
+        "avg_high_group": 0.824,
+        "avg_low_group": 0.164,
+        "gap_high_low": 0.66
+    },
+    "Arson016_x264": {
+        "highest_interval": [
+            1792,
+            2092
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            576,
+            876
+        ],
+        "lowest_avg_score": 0.037,
+        "std": 0.29268,
+        "avg_high_group": 0.681,
+        "avg_low_group": 0.094,
+        "gap_high_low": 0.587
+    },
+    "Shooting024_x264": {
+        "highest_interval": [
+            576,
+            876
+        ],
+        "highest_avg_score": 0.374,
+        "lowest_interval": [
+            1968,
+            2268
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.21612,
+        "avg_high_group": 0.344,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.338
+    },
+    "Robbery048_x264": {
+        "highest_interval": [
+            1408,
+            1708
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.132,
+        "std": 0.3153,
+        "avg_high_group": 0.816,
+        "avg_low_group": 0.214,
+        "gap_high_low": 0.602
+    },
+    "Explosion002_x264": {
+        "highest_interval": [
+            1472,
+            1872
+        ],
+        "highest_avg_score": 0.736,
+        "lowest_interval": [
+            3936,
+            4336
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23156,
+        "avg_high_group": 0.608,
+        "avg_low_group": 0.127,
+        "gap_high_low": 0.481
+    },
+    "Shoplifting031_x264": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.167,
+        "lowest_interval": [
+            432,
+            732
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10498,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Normal_Videos_051_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.189,
+        "lowest_interval": [
+            2352,
+            2652
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14212,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.233
+    },
+    "Normal_Videos_909_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.053,
+        "lowest_interval": [
+            864,
+            1164
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.07103,
+        "avg_high_group": 0.189,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.189
+    },
+    "Burglary037_x264": {
+        "highest_interval": [
+            1440,
+            1740
+        ],
+        "highest_avg_score": 0.358,
+        "lowest_interval": [
+            1744,
+            2044
+        ],
+        "lowest_avg_score": 0.136,
+        "std": 0.20756,
+        "avg_high_group": 0.449,
+        "avg_low_group": 0.119,
+        "gap_high_low": 0.33
+    },
+    "Normal_Videos_870_x264": {
+        "highest_interval": [
+            544,
+            844
+        ],
+        "highest_avg_score": 0.325,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.126,
+        "std": 0.11792,
+        "avg_high_group": 0.329,
+        "avg_low_group": 0.126,
+        "gap_high_low": 0.203
+    },
+    "Burglary024_x264": {
+        "highest_interval": [
+            2160,
+            2520
+        ],
+        "highest_avg_score": 0.135,
+        "lowest_interval": [
+            3552,
+            3912
+        ],
+        "lowest_avg_score": 0.025,
+        "std": 0.11056,
+        "avg_high_group": 0.205,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.205
+    },
+    "Burglary079_x264": {
+        "highest_interval": [
+            7568,
+            9052
+        ],
+        "highest_avg_score": 0.53,
+        "lowest_interval": [
+            14816,
+            16300
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26372,
+        "avg_high_group": 0.532,
+        "avg_low_group": 0.084,
+        "gap_high_low": 0.447
+    },
+    "RoadAccidents009_x264": {
+        "highest_interval": [
+            896,
+            1196
+        ],
+        "highest_avg_score": 0.7,
+        "lowest_interval": [
+            560,
+            860
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.25248,
+        "avg_high_group": 0.733,
+        "avg_low_group": 0.094,
+        "gap_high_low": 0.639
+    },
+    "Normal_Videos_873_x264": {
+        "highest_interval": [
+            496,
+            796
+        ],
+        "highest_avg_score": 0.158,
+        "lowest_interval": [
+            1040,
+            1340
+        ],
+        "lowest_avg_score": 0.053,
+        "std": 0.10402,
+        "avg_high_group": 0.213,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.195
+    },
+    "Normal_Videos_886_x264": {
+        "highest_interval": [
+            2736,
+            3036
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            2704,
+            3004
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.112,
+        "avg_high_group": 0.222,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.205
+    },
+    "Explosion039_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.618,
+        "lowest_interval": [
+            976,
+            1276
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.41056,
+        "avg_high_group": 0.867,
+        "avg_low_group": 0.076,
+        "gap_high_low": 0.791
+    },
+    "Normal_Videos_907_x264": {
+        "highest_interval": [
+            560,
+            860
+        ],
+        "highest_avg_score": 0.133,
+        "lowest_interval": [
+            576,
+            876
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.18249,
+        "avg_high_group": 0.357,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.357
+    },
+    "Normal_Videos_923_x264": {
+        "highest_interval": [
+            17744,
+            19564
+        ],
+        "highest_avg_score": 0.19,
+        "lowest_interval": [
+            18208,
+            20028
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11546,
+        "avg_high_group": 0.203,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.203
+    },
+    "Normal_Videos_782_x264": {
+        "highest_interval": [
+            4032,
+            4585
+        ],
+        "highest_avg_score": 0.14,
+        "lowest_interval": [
+            5536,
+            6089
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0974,
+        "avg_high_group": 0.196,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.196
+    },
+    "Normal_Videos_129_x264": {
+        "highest_interval": [
+            224,
+            524
+        ],
+        "highest_avg_score": 0.169,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19562,
+        "avg_high_group": 0.327,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.327
+    },
+    "RoadAccidents131_x264": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.405,
+        "lowest_interval": [
+            1088,
+            1388
+        ],
+        "lowest_avg_score": 0.089,
+        "std": 0.23949,
+        "avg_high_group": 0.512,
+        "avg_low_group": 0.084,
+        "gap_high_low": 0.428
+    },
+    "Normal_Videos_656_x264": {
+        "highest_interval": [
+            1184,
+            1484
+        ],
+        "highest_avg_score": 0.132,
+        "lowest_interval": [
+            1664,
+            1964
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11475,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.215
+    },
+    "Arrest024_x264": {
+        "highest_interval": [
+            672,
+            1033
+        ],
+        "highest_avg_score": 0.583,
+        "lowest_interval": [
+            3472,
+            3833
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.21893,
+        "avg_high_group": 0.554,
+        "avg_low_group": 0.171,
+        "gap_high_low": 0.383
+    },
+    "Normal_Videos_063_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.016,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.04476,
+        "avg_high_group": 0.15,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.15
+    },
+    "Normal_Videos_248_x264": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.158,
+        "lowest_interval": [
+            976,
+            1276
+        ],
+        "lowest_avg_score": 0.027,
+        "std": 0.11344,
+        "avg_high_group": 0.208,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.208
+    },
+    "Shooting033_x264": {
+        "highest_interval": [
+            1600,
+            1961
+        ],
+        "highest_avg_score": 0.591,
+        "lowest_interval": [
+            3616,
+            3977
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26978,
+        "avg_high_group": 0.548,
+        "avg_low_group": 0.104,
+        "gap_high_low": 0.443
+    },
+    "Shooting004_x264": {
+        "highest_interval": [
+            224,
+            524
+        ],
+        "highest_avg_score": 0.553,
+        "lowest_interval": [
+            1792,
+            2092
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.27623,
+        "avg_high_group": 0.606,
+        "avg_low_group": 0.094,
+        "gap_high_low": 0.512
+    },
+    "Normal_Videos_033_x264": {
+        "highest_interval": [
+            1056,
+            1356
+        ],
+        "highest_avg_score": 0.211,
+        "lowest_interval": [
+            1648,
+            1948
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12307,
+        "avg_high_group": 0.236,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.221
+    },
+    "Shoplifting007_x264": {
+        "highest_interval": [
+            5120,
+            5632
+        ],
+        "highest_avg_score": 0.7,
+        "lowest_interval": [
+            1712,
+            2224
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.16865,
+        "avg_high_group": 0.605,
+        "avg_low_group": 0.087,
+        "gap_high_low": 0.518
+    },
+    "Normal_Videos_905_x264": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.126,
+        "lowest_interval": [
+            1152,
+            1452
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14767,
+        "avg_high_group": 0.221,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.221
+    },
+    "RoadAccidents123_x264": {
+        "highest_interval": [
+            992,
+            1292
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            144,
+            444
+        ],
+        "lowest_avg_score": 0.021,
+        "std": 0.07691,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.192
+    },
+    "Normal_Videos_928_x264": {
+        "highest_interval": [
+            288,
+            588
+        ],
+        "highest_avg_score": 0.237,
+        "lowest_interval": [
+            736,
+            1036
+        ],
+        "lowest_avg_score": 0.042,
+        "std": 0.17628,
+        "avg_high_group": 0.263,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.249
+    },
+    "Normal_Videos_929_x264": {
+        "highest_interval": [
+            848,
+            1148
+        ],
+        "highest_avg_score": 0.24,
+        "lowest_interval": [
+            912,
+            1212
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12722,
+        "avg_high_group": 0.239,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.231
+    },
+    "Normal_Videos_246_x264": {
+        "highest_interval": [
+            2688,
+            3187
+        ],
+        "highest_avg_score": 0.306,
+        "lowest_interval": [
+            704,
+            1203
+        ],
+        "lowest_avg_score": 0.056,
+        "std": 0.19305,
+        "avg_high_group": 0.285,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.275
+    },
+    "Normal_Videos_944_x264": {
+        "highest_interval": [
+            6720,
+            7436
+        ],
+        "highest_avg_score": 0.203,
+        "lowest_interval": [
+            4064,
+            4780
+        ],
+        "lowest_avg_score": 0.049,
+        "std": 0.10706,
+        "avg_high_group": 0.214,
+        "avg_low_group": 0.009,
+        "gap_high_low": 0.205
+    },
+    "Assault010_x264": {
+        "highest_interval": [
+            13568,
+            15185
+        ],
+        "highest_avg_score": 0.425,
+        "lowest_interval": [
+            16160,
+            17777
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23816,
+        "avg_high_group": 0.532,
+        "avg_low_group": 0.1,
+        "gap_high_low": 0.433
+    },
+    "Normal_Videos_903_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            752,
+            1052
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09635,
+        "avg_high_group": 0.23,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.23
+    },
+    "Explosion016_x264": {
+        "highest_interval": [
+            944,
+            1244
+        ],
+        "highest_avg_score": 0.8,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.147,
+        "std": 0.27302,
+        "avg_high_group": 0.641,
+        "avg_low_group": 0.163,
+        "gap_high_low": 0.478
+    },
+    "Shoplifting001_x264": {
+        "highest_interval": [
+            608,
+            1041
+        ],
+        "highest_avg_score": 0.346,
+        "lowest_interval": [
+            2656,
+            3089
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.20251,
+        "avg_high_group": 0.303,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.293
+    },
+    "Normal_Videos_050_x264": {
+        "highest_interval": [
+            3872,
+            4291
+        ],
+        "highest_avg_score": 0.038,
+        "lowest_interval": [
+            928,
+            1347
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.05771,
+        "avg_high_group": 0.213,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.213
+    },
+    "Normal_Videos_452_x264": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            32,
+            332
+        ],
+        "lowest_avg_score": 0.053,
+        "std": 0.08806,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.02,
+        "gap_high_low": 0.18
+    },
+    "Shooting048_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.653,
+        "lowest_interval": [
+            2736,
+            3036
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.32255,
+        "avg_high_group": 0.797,
+        "avg_low_group": 0.083,
+        "gap_high_low": 0.715
+    },
+    "Assault011_x264": {
+        "highest_interval": [
+            960,
+            1260
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            1520,
+            1820
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.21884,
+        "avg_high_group": 0.334,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.328
+    },
+    "Normal_Videos_597_x264": {
+        "highest_interval": [
+            672,
+            972
+        ],
+        "highest_avg_score": 0.158,
+        "lowest_interval": [
+            2208,
+            2508
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15326,
+        "avg_high_group": 0.242,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.242
+    },
+    "RoadAccidents121_x264": {
+        "highest_interval": [
+            176,
+            476
+        ],
+        "highest_avg_score": 0.479,
+        "lowest_interval": [
+            1760,
+            2060
+        ],
+        "lowest_avg_score": 0.12,
+        "std": 0.18291,
+        "avg_high_group": 0.424,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.291
+    },
+    "RoadAccidents022_x264": {
+        "highest_interval": [
+            688,
+            988
+        ],
+        "highest_avg_score": 0.6,
+        "lowest_interval": [
+            672,
+            972
+        ],
+        "lowest_avg_score": 0.4,
+        "std": 0.21458,
+        "avg_high_group": 0.68,
+        "avg_low_group": 0.332,
+        "gap_high_low": 0.348
+    },
+    "Shoplifting015_x264": {
+        "highest_interval": [
+            2208,
+            2508
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            592,
+            892
+        ],
+        "lowest_avg_score": 0.042,
+        "std": 0.12679,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.223
+    },
+    "Normal_Videos_867_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.174,
+        "lowest_interval": [
+            608,
+            908
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12499,
+        "avg_high_group": 0.218,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.218
+    },
+    "Normal_Videos_875_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.068,
+        "lowest_interval": [
+            960,
+            1260
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0941,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.256
+    },
+    "RoadAccidents019_x264": {
+        "highest_interval": [
+            624,
+            924
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            1312,
+            1612
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19312,
+        "avg_high_group": 0.328,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.318
+    },
+    "Normal_Videos_345_x264": {
+        "highest_interval": [
+            192,
+            492
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            208,
+            508
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08806,
+        "avg_high_group": 0.167,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.167
+    },
+    "Shooting011_x264": {
+        "highest_interval": [
+            3536,
+            3936
+        ],
+        "highest_avg_score": 0.62,
+        "lowest_interval": [
+            1648,
+            2048
+        ],
+        "lowest_avg_score": 0.22,
+        "std": 0.25996,
+        "avg_high_group": 0.702,
+        "avg_low_group": 0.239,
+        "gap_high_low": 0.463
+    },
+    "Shooting046_x264": {
+        "highest_interval": [
+            5072,
+            5579
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            4240,
+            4747
+        ],
+        "lowest_avg_score": 0.298,
+        "std": 0.28087,
+        "avg_high_group": 0.781,
+        "avg_low_group": 0.269,
+        "gap_high_low": 0.512
+    },
+    "Shoplifting034_x264": {
+        "highest_interval": [
+            1504,
+            2697
+        ],
+        "highest_avg_score": 0.209,
+        "lowest_interval": [
+            11888,
+            13081
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14757,
+        "avg_high_group": 0.252,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.244
+    },
+    "Normal_Videos_365_x264": {
+        "highest_interval": [
+            5280,
+            5942
+        ],
+        "highest_avg_score": 0.152,
+        "lowest_interval": [
+            6624,
+            7286
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1014,
+        "avg_high_group": 0.194,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.194
+    },
+    "Normal_Videos_778_x264": {
+        "highest_interval": [
+            1232,
+            1532
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            1248,
+            1548
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06817,
+        "avg_high_group": 0.171,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.171
+    },
+    "RoadAccidents021_x264": {
+        "highest_interval": [
+            144,
+            444
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.217,
+        "std": 0.06403,
+        "avg_high_group": 0.35,
+        "avg_low_group": 0.2,
+        "gap_high_low": 0.15
+    },
+    "Shoplifting029_x264": {
+        "highest_interval": [
+            672,
+            972
+        ],
+        "highest_avg_score": 0.305,
+        "lowest_interval": [
+            2160,
+            2460
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20554,
+        "avg_high_group": 0.309,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.293
+    },
+    "Normal_Videos_621_x264": {
+        "highest_interval": [
+            4768,
+            5248
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            3296,
+            3776
+        ],
+        "lowest_avg_score": 0.02,
+        "std": 0.10567,
+        "avg_high_group": 0.228,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.217
+    },
+    "Abuse030_x264": {
+        "highest_interval": [
+            1424,
+            1724
+        ],
+        "highest_avg_score": 0.262,
+        "lowest_interval": [
+            544,
+            844
+        ],
+        "lowest_avg_score": 0.058,
+        "std": 0.1213,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.017,
+        "gap_high_low": 0.216
+    },
+    "Shooting008_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            1120,
+            1420
+        ],
+        "lowest_avg_score": 0.153,
+        "std": 0.20888,
+        "avg_high_group": 0.468,
+        "avg_low_group": 0.131,
+        "gap_high_low": 0.337
+    },
+    "RoadAccidents127_x264": {
+        "highest_interval": [
+            1408,
+            1708
+        ],
+        "highest_avg_score": 0.484,
+        "lowest_interval": [
+            2544,
+            2844
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.30971,
+        "avg_high_group": 0.685,
+        "avg_low_group": 0.046,
+        "gap_high_low": 0.639
+    },
+    "Normal_Videos_360_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.126,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.011,
+        "std": 0.13371,
+        "avg_high_group": 0.218,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.218
+    },
+    "RoadAccidents133_x264": {
+        "highest_interval": [
+            672,
+            972
+        ],
+        "highest_avg_score": 0.8,
+        "lowest_interval": [
+            544,
+            844
+        ],
+        "lowest_avg_score": 0.244,
+        "std": 0.27359,
+        "avg_high_group": 0.721,
+        "avg_low_group": 0.221,
+        "gap_high_low": 0.501
+    },
+    "Normal_Videos_686_x264": {
+        "highest_interval": [
+            2384,
+            2684
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            1344,
+            1644
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.11522,
+        "avg_high_group": 0.222,
+        "avg_low_group": 0.011,
+        "gap_high_low": 0.211
+    },
+    "Normal_Videos_896_x264": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            2272,
+            2572
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.18138,
+        "avg_high_group": 0.285,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.273
+    },
+    "Shooting019_x264": {
+        "highest_interval": [
+            1344,
+            1644
+        ],
+        "highest_avg_score": 0.595,
+        "lowest_interval": [
+            2736,
+            3036
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26604,
+        "avg_high_group": 0.534,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.4
+    },
+    "Normal_Videos_725_x264": {
+        "highest_interval": [
+            864,
+            1164
+        ],
+        "highest_avg_score": 0.175,
+        "lowest_interval": [
+            912,
+            1212
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10453,
+        "avg_high_group": 0.193,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.193
+    },
+    "Normal_Videos_606_x264": {
+        "highest_interval": [
+            1200,
+            1500
+        ],
+        "highest_avg_score": 0.233,
+        "lowest_interval": [
+            496,
+            796
+        ],
+        "lowest_avg_score": 0.021,
+        "std": 0.10782,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.211
+    },
+    "Normal_Videos_100_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            608,
+            908
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10618,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Normal_Videos_872_x264": {
+        "highest_interval": [
+            512,
+            812
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            528,
+            828
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0875,
+        "avg_high_group": 0.186,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.186
+    },
+    "Shoplifting021_x264": {
+        "highest_interval": [
+            192,
+            545
+        ],
+        "highest_avg_score": 0.348,
+        "lowest_interval": [
+            800,
+            1153
+        ],
+        "lowest_avg_score": 0.139,
+        "std": 0.18701,
+        "avg_high_group": 0.423,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.29
+    },
+    "Normal_Videos_196_x264": {
+        "highest_interval": [
+            2000,
+            2300
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            1728,
+            2028
+        ],
+        "lowest_avg_score": 0.111,
+        "std": 0.14743,
+        "avg_high_group": 0.377,
+        "avg_low_group": 0.132,
+        "gap_high_low": 0.246
+    },
+    "Explosion036_x264": {
+        "highest_interval": [
+            1408,
+            1939
+        ],
+        "highest_avg_score": 0.597,
+        "lowest_interval": [
+            5216,
+            5747
+        ],
+        "lowest_avg_score": 0.071,
+        "std": 0.28046,
+        "avg_high_group": 0.649,
+        "avg_low_group": 0.136,
+        "gap_high_low": 0.513
+    },
+    "Normal_Videos_911_x264": {
+        "highest_interval": [
+            752,
+            1052
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06818,
+        "avg_high_group": 0.16,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.16
+    },
+    "Normal_Videos_018_x264": {
+        "highest_interval": [
+            416,
+            716
+        ],
+        "highest_avg_score": 0.047,
+        "lowest_interval": [
+            160,
+            460
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06637,
+        "avg_high_group": 0.182,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.182
+    },
+    "Fighting033_x264": {
+        "highest_interval": [
+            1088,
+            1388
+        ],
+        "highest_avg_score": 0.75,
+        "lowest_interval": [
+            160,
+            460
+        ],
+        "lowest_avg_score": 0.174,
+        "std": 0.31208,
+        "avg_high_group": 0.735,
+        "avg_low_group": 0.164,
+        "gap_high_low": 0.571
+    },
+    "Shooting013_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.321,
+        "lowest_interval": [
+            1072,
+            1372
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1364,
+        "avg_high_group": 0.275,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.25
+    },
+    "Robbery106_x264": {
+        "highest_interval": [
+            1184,
+            1484
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            688,
+            988
+        ],
+        "lowest_avg_score": 0.116,
+        "std": 0.1668,
+        "avg_high_group": 0.395,
+        "avg_low_group": 0.125,
+        "gap_high_low": 0.27
+    },
+    "Explosion013_x264": {
+        "highest_interval": [
+            2560,
+            2891
+        ],
+        "highest_avg_score": 0.405,
+        "lowest_interval": [
+            3312,
+            3643
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1889,
+        "avg_high_group": 0.419,
+        "avg_low_group": 0.097,
+        "gap_high_low": 0.322
+    },
+    "Arson010_x264": {
+        "highest_interval": [
+            672,
+            987
+        ],
+        "highest_avg_score": 0.515,
+        "lowest_interval": [
+            3136,
+            3451
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.20099,
+        "avg_high_group": 0.518,
+        "avg_low_group": 0.185,
+        "gap_high_low": 0.333
+    },
+    "Arson011_x264": {
+        "highest_interval": [
+            528,
+            828
+        ],
+        "highest_avg_score": 0.605,
+        "lowest_interval": [
+            912,
+            1212
+        ],
+        "lowest_avg_score": 0.289,
+        "std": 0.25336,
+        "avg_high_group": 0.732,
+        "avg_low_group": 0.25,
+        "gap_high_low": 0.482
+    },
+    "Normal_Videos_868_x264": {
+        "highest_interval": [
+            1552,
+            1852
+        ],
+        "highest_avg_score": 0.237,
+        "lowest_interval": [
+            1184,
+            1484
+        ],
+        "lowest_avg_score": 0.105,
+        "std": 0.13887,
+        "avg_high_group": 0.259,
+        "avg_low_group": 0.022,
+        "gap_high_low": 0.237
+    },
+    "Normal_Videos_912_x264": {
+        "highest_interval": [
+            736,
+            1036
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            64,
+            364
+        ],
+        "lowest_avg_score": 0.011,
+        "std": 0.07228,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.195
+    },
+    "Assault006_x264": {
+        "highest_interval": [
+            2640,
+            3448
+        ],
+        "highest_avg_score": 0.695,
+        "lowest_interval": [
+            176,
+            984
+        ],
+        "lowest_avg_score": 0.218,
+        "std": 0.2786,
+        "avg_high_group": 0.708,
+        "avg_low_group": 0.198,
+        "gap_high_low": 0.51
+    },
+    "Normal_Videos_056_x264": {
+        "highest_interval": [
+            1552,
+            1852
+        ],
+        "highest_avg_score": 0.15,
+        "lowest_interval": [
+            1568,
+            1868
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13167,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "Normal_Videos_927_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.126,
+        "lowest_interval": [
+            1600,
+            1900
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12137,
+        "avg_high_group": 0.241,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.241
+    },
+    "RoadAccidents004_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.068,
+        "lowest_interval": [
+            144,
+            444
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14455,
+        "avg_high_group": 0.26,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.26
+    },
+    "Normal_Videos_027_x264": {
+        "highest_interval": [
+            48,
+            539
+        ],
+        "highest_avg_score": 0.197,
+        "lowest_interval": [
+            4848,
+            5339
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09907,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Burglary032_x264": {
+        "highest_interval": [
+            656,
+            2235
+        ],
+        "highest_avg_score": 0.239,
+        "lowest_interval": [
+            15760,
+            17339
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14783,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.011,
+        "gap_high_low": 0.245
+    },
+    "Normal_Videos_938_x264": {
+        "highest_interval": [
+            496,
+            977
+        ],
+        "highest_avg_score": 0.152,
+        "lowest_interval": [
+            4800,
+            5281
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11078,
+        "avg_high_group": 0.201,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.201
+    },
+    "Normal_Videos_900_x264": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.153,
+        "lowest_interval": [
+            1376,
+            1676
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11813,
+        "avg_high_group": 0.22,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.22
+    },
+    "Abuse028_x264": {
+        "highest_interval": [
+            720,
+            1020
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            1280,
+            1580
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.18509,
+        "avg_high_group": 0.318,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.301
+    },
+    "Normal_Videos_783_x264": {
+        "highest_interval": [
+            9584,
+            10542
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            9408,
+            10366
+        ],
+        "lowest_avg_score": 0.017,
+        "std": 0.10416,
+        "avg_high_group": 0.221,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.214
+    },
+    "Normal_Videos_310_x264": {
+        "highest_interval": [
+            2384,
+            2684
+        ],
+        "highest_avg_score": 0.044,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.04653,
+        "avg_high_group": 0.162,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.162
+    },
+    "Normal_Videos_932_x264": {
+        "highest_interval": [
+            1632,
+            1932
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            672,
+            972
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1273,
+        "avg_high_group": 0.245,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.237
+    },
+    "Normal_Videos_010_x264": {
+        "highest_interval": [
+            1040,
+            1340
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            896,
+            1196
+        ],
+        "lowest_avg_score": 0.02,
+        "std": 0.10854,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.207
+    },
+    "RoadAccidents011_x264": {
+        "highest_interval": [
+            1376,
+            1676
+        ],
+        "highest_avg_score": 0.379,
+        "lowest_interval": [
+            2144,
+            2444
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.25,
+        "avg_high_group": 0.426,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.421
+    },
+    "Arson009_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.447,
+        "lowest_interval": [
+            736,
+            1036
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15452,
+        "avg_high_group": 0.424,
+        "avg_low_group": 0.133,
+        "gap_high_low": 0.29
+    },
+    "Burglary005_x264": {
+        "highest_interval": [
+            4832,
+            5604
+        ],
+        "highest_avg_score": 0.271,
+        "lowest_interval": [
+            7456,
+            8228
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.16322,
+        "avg_high_group": 0.278,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.263
+    },
+    "Normal_Videos_042_x264": {
+        "highest_interval": [
+            3056,
+            3371
+        ],
+        "highest_avg_score": 0.114,
+        "lowest_interval": [
+            3152,
+            3467
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10972,
+        "avg_high_group": 0.211,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.211
+    },
+    "Normal_Videos_940_x264": {
+        "highest_interval": [
+            29824,
+            33425
+        ],
+        "highest_avg_score": 0.163,
+        "lowest_interval": [
+            36000,
+            39601
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11573,
+        "avg_high_group": 0.201,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.201
+    },
+    "Shoplifting049_x264": {
+        "highest_interval": [
+            608,
+            908
+        ],
+        "highest_avg_score": 0.353,
+        "lowest_interval": [
+            2032,
+            2332
+        ],
+        "lowest_avg_score": 0.062,
+        "std": 0.25105,
+        "avg_high_group": 0.545,
+        "avg_low_group": 0.082,
+        "gap_high_low": 0.462
+    },
+    "Normal_Videos_888_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.074,
+        "lowest_interval": [
+            512,
+            812
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08333,
+        "avg_high_group": 0.18,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.18
+    },
+    "Normal_Videos_210_x264": {
+        "highest_interval": [
+            3456,
+            3995
+        ],
+        "highest_avg_score": 0.212,
+        "lowest_interval": [
+            5344,
+            5883
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11393,
+        "avg_high_group": 0.235,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.232
+    },
+    "Normal_Videos_894_x264": {
+        "highest_interval": [
+            2464,
+            2764
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            2544,
+            2844
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09051,
+        "avg_high_group": 0.203,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.203
+    },
+    "Normal_Videos_915_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.189,
+        "lowest_interval": [
+            1088,
+            1388
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16876,
+        "avg_high_group": 0.33,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.33
+    },
+    "Fighting003_x264": {
+        "highest_interval": [
+            1920,
+            2228
+        ],
+        "highest_avg_score": 0.49,
+        "lowest_interval": [
+            3008,
+            3316
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26006,
+        "avg_high_group": 0.576,
+        "avg_low_group": 0.076,
+        "gap_high_low": 0.501
+    },
+    "Shoplifting016_x264": {
+        "highest_interval": [
+            160,
+            460
+        ],
+        "highest_avg_score": 0.174,
+        "lowest_interval": [
+            1456,
+            1756
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09725,
+        "avg_high_group": 0.183,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.183
+    },
+    "RoadAccidents001_x264": {
+        "highest_interval": [
+            112,
+            412
+        ],
+        "highest_avg_score": 0.458,
+        "lowest_interval": [
+            560,
+            860
+        ],
+        "lowest_avg_score": 0.168,
+        "std": 0.16718,
+        "avg_high_group": 0.491,
+        "avg_low_group": 0.195,
+        "gap_high_low": 0.296
+    },
+    "Normal_Videos_798_x264": {
+        "highest_interval": [
+            0,
+            600
+        ],
+        "highest_avg_score": 0.066,
+        "lowest_interval": [
+            5872,
+            6472
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0752,
+        "avg_high_group": 0.172,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.172
+    },
+    "Normal_Videos_893_x264": {
+        "highest_interval": [
+            5184,
+            5820
+        ],
+        "highest_avg_score": 0.125,
+        "lowest_interval": [
+            6320,
+            6956
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08864,
+        "avg_high_group": 0.174,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.174
+    },
+    "Stealing019_x264": {
+        "highest_interval": [
+            4272,
+            4761
+        ],
+        "highest_avg_score": 0.335,
+        "lowest_interval": [
+            4816,
+            5305
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15906,
+        "avg_high_group": 0.29,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.274
+    },
+    "Normal_Videos_417_x264": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.221,
+        "lowest_interval": [
+            1056,
+            1356
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11635,
+        "avg_high_group": 0.231,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.217
+    },
+    "Normal_Videos_576_x264": {
+        "highest_interval": [
+            11248,
+            12374
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            1488,
+            2614
+        ],
+        "lowest_avg_score": 0.027,
+        "std": 0.11121,
+        "avg_high_group": 0.237,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.232
+    },
+    "Normal_Videos_871_x264": {
+        "highest_interval": [
+            4320,
+            4755
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            2432,
+            2867
+        ],
+        "lowest_avg_score": 0.046,
+        "std": 0.10723,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.21
+    },
+    "Normal_Videos_926_x264": {
+        "highest_interval": [
+            1792,
+            2092
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            1712,
+            2012
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.12029,
+        "avg_high_group": 0.237,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.221
+    },
+    "Normal_Videos_006_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.158,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.25391,
+        "avg_high_group": 0.5,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.5
+    },
+    "Explosion025_x264": {
+        "highest_interval": [
+            480,
+            780
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            112,
+            412
+        ],
+        "lowest_avg_score": 0.058,
+        "std": 0.1192,
+        "avg_high_group": 0.244,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.231
+    },
+    "Explosion033_x264": {
+        "highest_interval": [
+            1520,
+            1835
+        ],
+        "highest_avg_score": 0.705,
+        "lowest_interval": [
+            240,
+            555
+        ],
+        "lowest_avg_score": 0.005,
+        "std": 0.29793,
+        "avg_high_group": 0.633,
+        "avg_low_group": 0.099,
+        "gap_high_low": 0.534
+    },
+    "Normal_Videos_899_x264": {
+        "highest_interval": [
+            1248,
+            1548
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            1360,
+            1660
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0939,
+        "avg_high_group": 0.196,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.196
+    },
+    "Fighting018_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.647,
+        "lowest_interval": [
+            1360,
+            1660
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.25362,
+        "avg_high_group": 0.584,
+        "avg_low_group": 0.161,
+        "gap_high_low": 0.423
+    },
+    "Burglary061_x264": {
+        "highest_interval": [
+            3600,
+            4497
+        ],
+        "highest_avg_score": 0.104,
+        "lowest_interval": [
+            8944,
+            9841
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09911,
+        "avg_high_group": 0.191,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.191
+    },
+    "Fighting047_x264": {
+        "highest_interval": [
+            1120,
+            1564
+        ],
+        "highest_avg_score": 0.693,
+        "lowest_interval": [
+            4352,
+            4796
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.25905,
+        "avg_high_group": 0.688,
+        "avg_low_group": 0.231,
+        "gap_high_low": 0.457
+    },
+    "Normal_Videos_913_x264": {
+        "highest_interval": [
+            608,
+            908
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12769,
+        "avg_high_group": 0.283,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.283
+    },
+    "Normal_Videos_150_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            848,
+            1148
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11863,
+        "avg_high_group": 0.216,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.216
+    },
+    "Explosion027_x264": {
+        "highest_interval": [
+            752,
+            1052
+        ],
+        "highest_avg_score": 0.55,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.18917,
+        "avg_high_group": 0.555,
+        "avg_low_group": 0.203,
+        "gap_high_low": 0.352
+    },
+    "Normal_Videos_924_x264": {
+        "highest_interval": [
+            6736,
+            17534
+        ],
+        "highest_avg_score": 0.228,
+        "lowest_interval": [
+            107952,
+            118750
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14325,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.242
+    },
+    "Explosion017_x264": {
+        "highest_interval": [
+            912,
+            1212
+        ],
+        "highest_avg_score": 0.426,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.2167,
+        "avg_high_group": 0.442,
+        "avg_low_group": 0.108,
+        "gap_high_low": 0.334
+    },
+    "Normal_Videos_831_x264": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            352,
+            652
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.14743,
+        "avg_high_group": 0.271,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.257
+    },
+    "Normal_Videos_168_x264": {
+        "highest_interval": [
+            976,
+            1276
+        ],
+        "highest_avg_score": 0.089,
+        "lowest_interval": [
+            1696,
+            1996
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09348,
+        "avg_high_group": 0.208,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.208
+    },
+    "Explosion022_x264": {
+        "highest_interval": [
+            2128,
+            2486
+        ],
+        "highest_avg_score": 0.687,
+        "lowest_interval": [
+            3520,
+            3878
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.2438,
+        "avg_high_group": 0.627,
+        "avg_low_group": 0.109,
+        "gap_high_low": 0.518
+    },
+    "Shoplifting020_x264": {
+        "highest_interval": [
+            4624,
+            5200
+        ],
+        "highest_avg_score": 0.436,
+        "lowest_interval": [
+            5568,
+            6144
+        ],
+        "lowest_avg_score": 0.054,
+        "std": 0.29969,
+        "avg_high_group": 0.677,
+        "avg_low_group": 0.09,
+        "gap_high_low": 0.587
+    },
+    "RoadAccidents010_x264": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            512,
+            812
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10159,
+        "avg_high_group": 0.195,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.195
+    },
+    "Burglary017_x264": {
+        "highest_interval": [
+            640,
+            940
+        ],
+        "highest_avg_score": 0.637,
+        "lowest_interval": [
+            2048,
+            2348
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.24391,
+        "avg_high_group": 0.631,
+        "avg_low_group": 0.142,
+        "gap_high_low": 0.489
+    },
+    "Normal_Videos_937_x264": {
+        "highest_interval": [
+            1104,
+            1404
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            1120,
+            1420
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09859,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.219
+    },
+    "Normal_Videos_890_x264": {
+        "highest_interval": [
+            1104,
+            1460
+        ],
+        "highest_avg_score": 0.117,
+        "lowest_interval": [
+            3504,
+            3860
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08781,
+        "avg_high_group": 0.184,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.184
+    },
+    "RoadAccidents128_x264": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.405,
+        "lowest_interval": [
+            528,
+            828
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.25874,
+        "avg_high_group": 0.564,
+        "avg_low_group": 0.105,
+        "gap_high_low": 0.46
+    },
+    "Explosion008_x264": {
+        "highest_interval": [
+            1744,
+            2044
+        ],
+        "highest_avg_score": 0.9,
+        "lowest_interval": [
+            320,
+            620
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.29321,
+        "avg_high_group": 0.634,
+        "avg_low_group": 0.106,
+        "gap_high_low": 0.528
+    },
+    "Shooting018_x264": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.768,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.258,
+        "std": 0.30946,
+        "avg_high_group": 0.792,
+        "avg_low_group": 0.225,
+        "gap_high_low": 0.566
+    },
+    "Normal_Videos_070_x264": {
+        "highest_interval": [
+            992,
+            1292
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.021,
+        "std": 0.1037,
+        "avg_high_group": 0.233,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.227
+    },
+    "Arson022_x264": {
+        "highest_interval": [
+            8560,
+            9422
+        ],
+        "highest_avg_score": 0.38,
+        "lowest_interval": [
+            5328,
+            6190
+        ],
+        "lowest_avg_score": 0.006,
+        "std": 0.13771,
+        "avg_high_group": 0.254,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.244
+    },
+    "Normal_Videos_874_x264": {
+        "highest_interval": [
+            2784,
+            3206
+        ],
+        "highest_avg_score": 0.259,
+        "lowest_interval": [
+            4192,
+            4614
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20648,
+        "avg_high_group": 0.391,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.387
+    },
+    "Normal_Videos_634_x264": {
+        "highest_interval": [
+            13392,
+            14737
+        ],
+        "highest_avg_score": 0.06,
+        "lowest_interval": [
+            13456,
+            14801
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06415,
+        "avg_high_group": 0.202,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.202
+    },
+    "Normal_Videos_289_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.047,
+        "lowest_interval": [
+            752,
+            1052
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06364,
+        "avg_high_group": 0.186,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.186
+    },
+    "Normal_Videos_941_x264": {
+        "highest_interval": [
+            1552,
+            1852
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            2000,
+            2300
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10346,
+        "avg_high_group": 0.19,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.19
+    },
+    "Normal_Videos_914_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.037,
+        "lowest_interval": [
+            128,
+            428
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.0654,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "Arson018_x264": {
+        "highest_interval": [
+            160,
+            460
+        ],
+        "highest_avg_score": 0.495,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.14,
+        "std": 0.2519,
+        "avg_high_group": 0.605,
+        "avg_low_group": 0.158,
+        "gap_high_low": 0.447
+    },
+    "Vandalism017_x264": {
+        "highest_interval": [
+            960,
+            1260
+        ],
+        "highest_avg_score": 0.7,
+        "lowest_interval": [
+            1008,
+            1308
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.34073,
+        "avg_high_group": 0.764,
+        "avg_low_group": 0.139,
+        "gap_high_low": 0.625
+    },
+    "Normal_Videos_312_x264": {
+        "highest_interval": [
+            656,
+            956
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            1248,
+            1548
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09728,
+        "avg_high_group": 0.191,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.191
+    },
+    "Normal_Videos_247_x264": {
+        "highest_interval": [
+            6688,
+            7508
+        ],
+        "highest_avg_score": 0.152,
+        "lowest_interval": [
+            8208,
+            9028
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11869,
+        "avg_high_group": 0.213,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.213
+    },
+    "Arrest001_x264": {
+        "highest_interval": [
+            1184,
+            1484
+        ],
+        "highest_avg_score": 0.784,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.042,
+        "std": 0.2905,
+        "avg_high_group": 0.786,
+        "avg_low_group": 0.107,
+        "gap_high_low": 0.68
+    },
+    "Vandalism028_x264": {
+        "highest_interval": [
+            1600,
+            2048
+        ],
+        "highest_avg_score": 0.318,
+        "lowest_interval": [
+            4464,
+            4912
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1619,
+        "avg_high_group": 0.288,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.275
+    },
+    "Shoplifting039_x264": {
+        "highest_interval": [
+            1568,
+            1868
+        ],
+        "highest_avg_score": 0.189,
+        "lowest_interval": [
+            2800,
+            3100
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12345,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "Normal_Videos_908_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.063,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06406,
+        "avg_high_group": 0.167,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.167
+    },
+    "RoadAccidents124_x264": {
+        "highest_interval": [
+            208,
+            508
+        ],
+        "highest_avg_score": 0.553,
+        "lowest_interval": [
+            1456,
+            1756
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.22343,
+        "avg_high_group": 0.577,
+        "avg_low_group": 0.198,
+        "gap_high_low": 0.379
+    },
+    "Normal_Videos_889_x264": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.147,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1621,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.3
+    },
+    "RoadAccidents132_x264": {
+        "highest_interval": [
+            1856,
+            2156
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            1760,
+            2060
+        ],
+        "lowest_avg_score": 0.157,
+        "std": 0.20561,
+        "avg_high_group": 0.508,
+        "avg_low_group": 0.157,
+        "gap_high_low": 0.352
+    },
+    "Shoplifting005_x264": {
+        "highest_interval": [
+            608,
+            908
+        ],
+        "highest_avg_score": 0.274,
+        "lowest_interval": [
+            1936,
+            2236
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15329,
+        "avg_high_group": 0.253,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.244
+    },
+    "Explosion035_x264": {
+        "highest_interval": [
+            160,
+            460
+        ],
+        "highest_avg_score": 0.384,
+        "lowest_interval": [
+            2848,
+            3148
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.20529,
+        "avg_high_group": 0.468,
+        "avg_low_group": 0.121,
+        "gap_high_low": 0.347
+    },
+    "Normal_Videos_898_x264": {
+        "highest_interval": [
+            992,
+            1292
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            272,
+            572
+        ],
+        "lowest_avg_score": 0.026,
+        "std": 0.10686,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.002,
+        "gap_high_low": 0.217
+    },
+    "Shoplifting033_x264": {
+        "highest_interval": [
+            768,
+            1068
+        ],
+        "highest_avg_score": 0.267,
+        "lowest_interval": [
+            848,
+            1148
+        ],
+        "lowest_avg_score": 0.075,
+        "std": 0.14503,
+        "avg_high_group": 0.244,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.232
+    },
+    "Shooting034_x264": {
+        "highest_interval": [
+            800,
+            1100
+        ],
+        "highest_avg_score": 0.311,
+        "lowest_interval": [
+            1392,
+            1692
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19937,
+        "avg_high_group": 0.319,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.312
+    },
+    "Stealing036_x264": {
+        "highest_interval": [
+            2000,
+            2300
+        ],
+        "highest_avg_score": 0.232,
+        "lowest_interval": [
+            2480,
+            2780
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13379,
+        "avg_high_group": 0.243,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.239
+    },
+    "Explosion020_x264": {
+        "highest_interval": [
+            288,
+            588
+        ],
+        "highest_avg_score": 0.816,
+        "lowest_interval": [
+            1280,
+            1580
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.25801,
+        "avg_high_group": 0.791,
+        "avg_low_group": 0.286,
+        "gap_high_low": 0.505
+    },
+    "Shoplifting022_x264": {
+        "highest_interval": [
+            1152,
+            1452
+        ],
+        "highest_avg_score": 0.211,
+        "lowest_interval": [
+            2160,
+            2460
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16838,
+        "avg_high_group": 0.274,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.264
+    },
+    "Normal_Videos_884_x264": {
+        "highest_interval": [
+            9024,
+            9926
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            5536,
+            6438
+        ],
+        "lowest_avg_score": 0.056,
+        "std": 0.22245,
+        "avg_high_group": 0.565,
+        "avg_low_group": 0.074,
+        "gap_high_low": 0.49
+    },
+    "Stealing079_x264": {
+        "highest_interval": [
+            5840,
+            6424
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            752,
+            1336
+        ],
+        "lowest_avg_score": 0.078,
+        "std": 0.12867,
+        "avg_high_group": 0.246,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.232
+    },
+    "Normal_Videos_439_x264": {
+        "highest_interval": [
+            1296,
+            1718
+        ],
+        "highest_avg_score": 0.367,
+        "lowest_interval": [
+            4208,
+            4630
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19021,
+        "avg_high_group": 0.321,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.316
+    },
+    "Normal_Videos_934_x264": {
+        "highest_interval": [
+            1056,
+            1356
+        ],
+        "highest_avg_score": 0.116,
+        "lowest_interval": [
+            1680,
+            1980
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08683,
+        "avg_high_group": 0.187,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.187
+    },
+    "Shooting032_x264": {
+        "highest_interval": [
+            14592,
+            16760
+        ],
+        "highest_avg_score": 0.339,
+        "lowest_interval": [
+            21680,
+            23848
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19975,
+        "avg_high_group": 0.318,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.306
+    },
+    "Normal_Videos_401_x264": {
+        "highest_interval": [
+            1216,
+            1516
+        ],
+        "highest_avg_score": 0.142,
+        "lowest_interval": [
+            1552,
+            1852
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.13023,
+        "avg_high_group": 0.231,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.231
+    },
+    "Normal_Videos_876_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.042,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.07714,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Normal_Videos_175_x264": {
+        "highest_interval": [
+            5664,
+            6547
+        ],
+        "highest_avg_score": 0.125,
+        "lowest_interval": [
+            8544,
+            9427
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10391,
+        "avg_high_group": 0.202,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.202
+    },
+    "Shooting043_x264": {
+        "highest_interval": [
+            1360,
+            1660
+        ],
+        "highest_avg_score": 0.637,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.153,
+        "std": 0.27452,
+        "avg_high_group": 0.624,
+        "avg_low_group": 0.151,
+        "gap_high_low": 0.474
+    },
+    "Shoplifting027_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.437,
+        "lowest_interval": [
+            1856,
+            2156
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26231,
+        "avg_high_group": 0.596,
+        "avg_low_group": 0.067,
+        "gap_high_low": 0.529
+    },
+    "Normal_Videos_041_x264": {
+        "highest_interval": [
+            928,
+            1228
+        ],
+        "highest_avg_score": 0.226,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.13152,
+        "avg_high_group": 0.242,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.227
+    },
+    "Normal_Videos_883_x264": {
+        "highest_interval": [
+            304,
+            604
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.011,
+        "std": 0.07649,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.245
+    },
+    "Robbery102_x264": {
+        "highest_interval": [
+            1184,
+            1484
+        ],
+        "highest_avg_score": 0.753,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.016,
+        "std": 0.32002,
+        "avg_high_group": 0.698,
+        "avg_low_group": 0.093,
+        "gap_high_low": 0.604
+    },
+    "Explosion004_x264": {
+        "highest_interval": [
+            1248,
+            1548
+        ],
+        "highest_avg_score": 0.526,
+        "lowest_interval": [
+            320,
+            620
+        ],
+        "lowest_avg_score": 0.095,
+        "std": 0.23833,
+        "avg_high_group": 0.567,
+        "avg_low_group": 0.164,
+        "gap_high_low": 0.403
+    },
+    "Normal_Videos_878_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            160,
+            460
+        ],
+        "lowest_avg_score": 0.029,
+        "std": 0.08402,
+        "avg_high_group": 0.155,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.155
+    },
+    "Normal_Videos_877_x264": {
+        "highest_interval": [
+            9760,
+            10761
+        ],
+        "highest_avg_score": 0.206,
+        "lowest_interval": [
+            2944,
+            3945
+        ],
+        "lowest_avg_score": 0.06,
+        "std": 0.14085,
+        "avg_high_group": 0.252,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.239
+    },
+    "Normal_Videos_897_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.037,
+        "lowest_interval": [
+            800,
+            1100
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06019,
+        "avg_high_group": 0.163,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.163
+    },
+    "Normal_Videos_895_x264": {
+        "highest_interval": [
+            3008,
+            3310
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            720,
+            1022
+        ],
+        "lowest_avg_score": 0.026,
+        "std": 0.11005,
+        "avg_high_group": 0.224,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.21
+    },
+    "Normal_Videos_745_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.047,
+        "lowest_interval": [
+            240,
+            540
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08047,
+        "avg_high_group": 0.18,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.18
+    },
+    "Shooting021_x264": {
+        "highest_interval": [
+            352,
+            652
+        ],
+        "highest_avg_score": 0.263,
+        "lowest_interval": [
+            1152,
+            1452
+        ],
+        "lowest_avg_score": 0.137,
+        "std": 0.14998,
+        "avg_high_group": 0.371,
+        "avg_low_group": 0.123,
+        "gap_high_low": 0.248
+    },
+    "Arson035_x264": {
+        "highest_interval": [
+            256,
+            556
+        ],
+        "highest_avg_score": 0.421,
+        "lowest_interval": [
+            1424,
+            1724
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.2183,
+        "avg_high_group": 0.441,
+        "avg_low_group": 0.093,
+        "gap_high_low": 0.347
+    },
+    "Normal_Videos_869_x264": {
+        "highest_interval": [
+            2400,
+            2700
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            1104,
+            1404
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09188,
+        "avg_high_group": 0.182,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.182
+    },
+    "Burglary035_x264": {
+        "highest_interval": [
+            768,
+            1172
+        ],
+        "highest_avg_score": 0.481,
+        "lowest_interval": [
+            3984,
+            4388
+        ],
+        "lowest_avg_score": 0.06,
+        "std": 0.26644,
+        "avg_high_group": 0.6,
+        "avg_low_group": 0.116,
+        "gap_high_low": 0.484
+    },
+    "Fighting042_x264": {
+        "highest_interval": [
+            976,
+            1276
+        ],
+        "highest_avg_score": 0.626,
+        "lowest_interval": [
+            2224,
+            2524
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23482,
+        "avg_high_group": 0.575,
+        "avg_low_group": 0.182,
+        "gap_high_low": 0.393
+    },
+    "Normal_Videos_758_x264": {
+        "highest_interval": [
+            1264,
+            1564
+        ],
+        "highest_avg_score": 0.111,
+        "lowest_interval": [
+            1568,
+            1868
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08973,
+        "avg_high_group": 0.19,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.19
+    },
+    "Vandalism007_x264": {
+        "highest_interval": [
+            448,
+            748
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.079,
+        "std": 0.13514,
+        "avg_high_group": 0.261,
+        "avg_low_group": 0.023,
+        "gap_high_low": 0.238
+    },
+    "Normal_Videos_015_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.058,
+        "lowest_interval": [
+            464,
+            764
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08055,
+        "avg_high_group": 0.156,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.156
+    },
+    "Normal_Videos_722_x264": {
+        "highest_interval": [
+            8720,
+            9592
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            0,
+            872
+        ],
+        "lowest_avg_score": 0.011,
+        "std": 0.06777,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.002,
+        "gap_high_low": 0.198
+    },
+    "Normal_Videos_891_x264": {
+        "highest_interval": [
+            480,
+            780
+        ],
+        "highest_avg_score": 0.074,
+        "lowest_interval": [
+            1760,
+            2060
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08312,
+        "avg_high_group": 0.186,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.186
+    },
+    "RoadAccidents017_x264": {
+        "highest_interval": [
+            176,
+            476
+        ],
+        "highest_avg_score": 0.56,
+        "lowest_interval": [
+            80,
+            380
+        ],
+        "lowest_avg_score": 0.455,
+        "std": 0.16852,
+        "avg_high_group": 0.6,
+        "avg_low_group": 0.367,
+        "gap_high_low": 0.233
+    },
+    "Normal_Videos_696_x264": {
+        "highest_interval": [
+            3584,
+            3945
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            3200,
+            3561
+        ],
+        "lowest_avg_score": 0.026,
+        "std": 0.11459,
+        "avg_high_group": 0.228,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.22
+    },
+    "Shoplifting010_x264": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.111,
+        "lowest_interval": [
+            2720,
+            3020
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10468,
+        "avg_high_group": 0.195,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.195
+    },
+    "Normal_Videos_317_x264": {
+        "highest_interval": [
+            528,
+            828
+        ],
+        "highest_avg_score": 0.147,
+        "lowest_interval": [
+            912,
+            1212
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09941,
+        "avg_high_group": 0.188,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.188
+    },
+    "Explosion011_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.358,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.21492,
+        "avg_high_group": 0.494,
+        "avg_low_group": 0.002,
+        "gap_high_low": 0.492
+    },
+    "Normal_Videos_059_x264": {
+        "highest_interval": [
+            1824,
+            2124
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            1744,
+            2044
+        ],
+        "lowest_avg_score": 0.033,
+        "std": 0.1137,
+        "avg_high_group": 0.224,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.206
+    },
+    "Normal_Videos_931_x264": {
+        "highest_interval": [
+            1744,
+            2044
+        ],
+        "highest_avg_score": 0.25,
+        "lowest_interval": [
+            976,
+            1276
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.10445,
+        "avg_high_group": 0.211,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.199
+    },
+    "Normal_Videos_881_x264": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.073,
+        "lowest_interval": [
+            160,
+            460
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09794,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Normal_Videos_641_x264": {
+        "highest_interval": [
+            3584,
+            3942
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            3184,
+            3542
+        ],
+        "lowest_avg_score": 0.004,
+        "std": 0.121,
+        "avg_high_group": 0.23,
+        "avg_low_group": 0.005,
+        "gap_high_low": 0.225
+    },
+    "Shooting028_x264": {
+        "highest_interval": [
+            384,
+            684
+        ],
+        "highest_avg_score": 0.458,
+        "lowest_interval": [
+            1888,
+            2188
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.26214,
+        "avg_high_group": 0.513,
+        "avg_low_group": 0.079,
+        "gap_high_low": 0.434
+    },
+    "Burglary092_x264": {
+        "highest_interval": [
+            256,
+            556
+        ],
+        "highest_avg_score": 0.226,
+        "lowest_interval": [
+            592,
+            892
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20795,
+        "avg_high_group": 0.313,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.305
+    },
+    "Normal_Videos_224_x264": {
+        "highest_interval": [
+            1376,
+            2070
+        ],
+        "highest_avg_score": 0.232,
+        "lowest_interval": [
+            6896,
+            7590
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.14339,
+        "avg_high_group": 0.242,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.23
+    },
+    "RoadAccidents012_x264": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.363,
+        "lowest_interval": [
+            464,
+            764
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.23371,
+        "avg_high_group": 0.405,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.395
+    },
+    "Normal_Videos_935_x264": {
+        "highest_interval": [
+            72144,
+            82942
+        ],
+        "highest_avg_score": 0.108,
+        "lowest_interval": [
+            107936,
+            118734
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1278,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "Normal_Videos_943_x264": {
+        "highest_interval": [
+            1008,
+            1308
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.026,
+        "std": 0.08833,
+        "avg_high_group": 0.207,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.201
+    },
+    "RoadAccidents016_x264": {
+        "highest_interval": [
+            480,
+            780
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            2016,
+            2316
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1788,
+        "avg_high_group": 0.343,
+        "avg_low_group": 0.002,
+        "gap_high_low": 0.34
+    },
+    "Normal_Videos_182_x264": {
+        "highest_interval": [
+            3296,
+            3704
+        ],
+        "highest_avg_score": 0.354,
+        "lowest_interval": [
+            32,
+            440
+        ],
+        "lowest_avg_score": 0.027,
+        "std": 0.20116,
+        "avg_high_group": 0.291,
+        "avg_low_group": 0.009,
+        "gap_high_low": 0.282
+    },
+    "Shooting026_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.179,
+        "lowest_interval": [
+            1392,
+            1692
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11673,
+        "avg_high_group": 0.205,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.205
+    },
+    "Normal_Videos_025_x264": {
+        "highest_interval": [
+            176,
+            476
+        ],
+        "highest_avg_score": 0.032,
+        "lowest_interval": [
+            480,
+            780
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.04881,
+        "avg_high_group": 0.15,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.15
+    },
+    "RoadAccidents122_x264": {
+        "highest_interval": [
+            592,
+            892
+        ],
+        "highest_avg_score": 0.225,
+        "lowest_interval": [
+            640,
+            940
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.16112,
+        "avg_high_group": 0.282,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.278
+    },
+    "Normal_Videos_882_x264": {
+        "highest_interval": [
+            1648,
+            1948
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            1200,
+            1500
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.10865,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.21
+    },
+    "Arson041_x264": {
+        "highest_interval": [
+            3328,
+            3702
+        ],
+        "highest_avg_score": 0.475,
+        "lowest_interval": [
+            1504,
+            1878
+        ],
+        "lowest_avg_score": 0.029,
+        "std": 0.1988,
+        "avg_high_group": 0.46,
+        "avg_low_group": 0.089,
+        "gap_high_low": 0.371
+    },
+    "Explosion021_x264": {
+        "highest_interval": [
+            48,
+            348
+        ],
+        "highest_avg_score": 0.663,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.3,
+        "std": 0.24168,
+        "avg_high_group": 0.706,
+        "avg_low_group": 0.272,
+        "gap_high_low": 0.434
+    },
+    "Normal_Videos_702_x264": {
+        "highest_interval": [
+            2112,
+            2412
+        ],
+        "highest_avg_score": 0.284,
+        "lowest_interval": [
+            1216,
+            1516
+        ],
+        "lowest_avg_score": 0.016,
+        "std": 0.14024,
+        "avg_high_group": 0.244,
+        "avg_low_group": 0.012,
+        "gap_high_low": 0.233
+    },
+    "Shoplifting004_x264": {
+        "highest_interval": [
+            6448,
+            7115
+        ],
+        "highest_avg_score": 0.353,
+        "lowest_interval": [
+            0,
+            667
+        ],
+        "lowest_avg_score": 0.093,
+        "std": 0.1411,
+        "avg_high_group": 0.357,
+        "avg_low_group": 0.131,
+        "gap_high_low": 0.226
+    },
+    "Normal_Videos_901_x264": {
+        "highest_interval": [
+            688,
+            988
+        ],
+        "highest_avg_score": 0.189,
+        "lowest_interval": [
+            1136,
+            1436
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14602,
+        "avg_high_group": 0.229,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.229
+    },
+    "Burglary076_x264": {
+        "highest_interval": [
+            11296,
+            12587
+        ],
+        "highest_avg_score": 0.168,
+        "lowest_interval": [
+            12880,
+            14171
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12701,
+        "avg_high_group": 0.217,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.217
+    },
+    "Normal_Videos_933_x264": {
+        "highest_interval": [
+            208,
+            508
+        ],
+        "highest_avg_score": 0.105,
+        "lowest_interval": [
+            1728,
+            2028
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.07649,
+        "avg_high_group": 0.17,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.17
+    },
+    "Vandalism015_x264": {
+        "highest_interval": [
+            2432,
+            2732
+        ],
+        "highest_avg_score": 0.547,
+        "lowest_interval": [
+            2912,
+            3212
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.31604,
+        "avg_high_group": 0.658,
+        "avg_low_group": 0.076,
+        "gap_high_low": 0.583
+    },
+    "Burglary018_x264": {
+        "highest_interval": [
+            1120,
+            1420
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.095,
+        "std": 0.15999,
+        "avg_high_group": 0.376,
+        "avg_low_group": 0.078,
+        "gap_high_low": 0.299
+    },
+    "Vandalism036_x264": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.663,
+        "lowest_interval": [
+            1008,
+            1308
+        ],
+        "lowest_avg_score": 0.126,
+        "std": 0.29312,
+        "avg_high_group": 0.671,
+        "avg_low_group": 0.113,
+        "gap_high_low": 0.559
+    },
+    "Normal_Videos_251_x264": {
+        "highest_interval": [
+            336,
+            636
+        ],
+        "highest_avg_score": 0.22,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.121,
+        "std": 0.11121,
+        "avg_high_group": 0.219,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.209
+    },
+    "Shooting015_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.542,
+        "lowest_interval": [
+            368,
+            668
+        ],
+        "lowest_avg_score": 0.121,
+        "std": 0.25233,
+        "avg_high_group": 0.646,
+        "avg_low_group": 0.155,
+        "gap_high_low": 0.491
+    },
+    "Normal_Videos_902_x264": {
+        "highest_interval": [
+            768,
+            1068
+        ],
+        "highest_avg_score": 0.105,
+        "lowest_interval": [
+            1200,
+            1500
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11571,
+        "avg_high_group": 0.225,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.225
+    },
+    "Explosion007_x264": {
+        "highest_interval": [
+            13392,
+            15020
+        ],
+        "highest_avg_score": 0.411,
+        "lowest_interval": [
+            16288,
+            17916
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.19941,
+        "avg_high_group": 0.436,
+        "avg_low_group": 0.131,
+        "gap_high_low": 0.305
+    },
+    "Normal_Videos_892_x264": {
+        "highest_interval": [
+            1232,
+            1532
+        ],
+        "highest_avg_score": 0.337,
+        "lowest_interval": [
+            1632,
+            1932
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.13467,
+        "avg_high_group": 0.377,
+        "avg_low_group": 0.162,
+        "gap_high_low": 0.215
+    },
+    "Arrest007_x264": {
+        "highest_interval": [
+            2640,
+            2953
+        ],
+        "highest_avg_score": 0.455,
+        "lowest_interval": [
+            3120,
+            3433
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.2189,
+        "avg_high_group": 0.496,
+        "avg_low_group": 0.101,
+        "gap_high_low": 0.395
+    },
+    "Stealing062_x264": {
+        "highest_interval": [
+            176,
+            476
+        ],
+        "highest_avg_score": 0.305,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.179,
+        "std": 0.11447,
+        "avg_high_group": 0.347,
+        "avg_low_group": 0.167,
+        "gap_high_low": 0.18
+    },
+    "RoadAccidents020_x264": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            1728,
+            2028
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.17218,
+        "avg_high_group": 0.299,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.286
+    },
+    "Explosion043_x264": {
+        "highest_interval": [
+            7632,
+            8395
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            3536,
+            4299
+        ],
+        "lowest_avg_score": 0.067,
+        "std": 0.20762,
+        "avg_high_group": 0.486,
+        "avg_low_group": 0.076,
+        "gap_high_low": 0.41
+    },
+    "Normal_Videos_024_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.121,
+        "lowest_interval": [
+            928,
+            1228
+        ],
+        "lowest_avg_score": 0.01,
+        "std": 0.10973,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.215
+    },
+    "Normal_Videos_603_x264": {
+        "highest_interval": [
+            1632,
+            1958
+        ],
+        "highest_avg_score": 0.152,
+        "lowest_interval": [
+            3248,
+            3574
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11667,
+        "avg_high_group": 0.221,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.221
+    },
+    "Shooting022_x264": {
+        "highest_interval": [
+            2720,
+            3174
+        ],
+        "highest_avg_score": 0.534,
+        "lowest_interval": [
+            4368,
+            4822
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.21605,
+        "avg_high_group": 0.565,
+        "avg_low_group": 0.072,
+        "gap_high_low": 0.493
+    },
+    "Burglary021_x264": {
+        "highest_interval": [
+            128,
+            428
+        ],
+        "highest_avg_score": 0.326,
+        "lowest_interval": [
+            1520,
+            1820
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.17233,
+        "avg_high_group": 0.309,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.301
+    },
+    "Normal_Videos_048_x264": {
+        "highest_interval": [
+            1632,
+            1932
+        ],
+        "highest_avg_score": 0.55,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12144,
+        "avg_high_group": 0.533,
+        "avg_low_group": 0.044,
+        "gap_high_low": 0.49
+    },
+    "Shooting002_x264": {
+        "highest_interval": [
+            1184,
+            1484
+        ],
+        "highest_avg_score": 0.6,
+        "lowest_interval": [
+            16,
+            316
+        ],
+        "lowest_avg_score": 0.111,
+        "std": 0.22041,
+        "avg_high_group": 0.593,
+        "avg_low_group": 0.138,
+        "gap_high_low": 0.456
+    },
+    "Normal_Videos_478_x264": {
+        "highest_interval": [
+            3696,
+            4145
+        ],
+        "highest_avg_score": 0.259,
+        "lowest_interval": [
+            1024,
+            1473
+        ],
+        "lowest_avg_score": 0.031,
+        "std": 0.16957,
+        "avg_high_group": 0.275,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.266
+    },
+    "Shooting007_x264": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.395,
+        "lowest_interval": [
+            1424,
+            1724
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.20128,
+        "avg_high_group": 0.332,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.322
+    },
+    "Stealing058_x264": {
+        "highest_interval": [
+            2576,
+            3073
+        ],
+        "highest_avg_score": 0.838,
+        "lowest_interval": [
+            4944,
+            5441
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.32632,
+        "avg_high_group": 0.81,
+        "avg_low_group": 0.228,
+        "gap_high_low": 0.582
+    },
+    "Normal_Videos_904_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.063,
+        "lowest_interval": [
+            288,
+            588
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09079,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.25
+    },
+    "Explosion029_x264": {
+        "highest_interval": [
+            1760,
+            2060
+        ],
+        "highest_avg_score": 0.537,
+        "lowest_interval": [
+            912,
+            1212
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.21924,
+        "avg_high_group": 0.477,
+        "avg_low_group": 0.074,
+        "gap_high_low": 0.403
+    },
+    "Normal_Videos_352_x264": {
+        "highest_interval": [
+            2640,
+            3179
+        ],
+        "highest_avg_score": 0.174,
+        "lowest_interval": [
+            5376,
+            5915
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12451,
+        "avg_high_group": 0.215,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.215
+    },
+    "RoadAccidents125_x264": {
+        "highest_interval": [
+            1728,
+            2028
+        ],
+        "highest_avg_score": 0.567,
+        "lowest_interval": [
+            128,
+            428
+        ],
+        "lowest_avg_score": 0.095,
+        "std": 0.23021,
+        "avg_high_group": 0.56,
+        "avg_low_group": 0.106,
+        "gap_high_low": 0.454
+    },
+    "Normal_Videos_801_x264": {
+        "highest_interval": [
+            2736,
+            3036
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            1904,
+            2204
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06295,
+        "avg_high_group": 0.213,
+        "avg_low_group": 0.004,
+        "gap_high_low": 0.209
+    },
+    "Normal_Videos_887_x264": {
+        "highest_interval": [
+            7616,
+            8377
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            6848,
+            7609
+        ],
+        "lowest_avg_score": 0.054,
+        "std": 0.11963,
+        "avg_high_group": 0.234,
+        "avg_low_group": 0.015,
+        "gap_high_low": 0.219
+    },
+    "Normal_Videos_781_x264": {
+        "highest_interval": [
+            3440,
+            3836
+        ],
+        "highest_avg_score": 0.148,
+        "lowest_interval": [
+            3936,
+            4332
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10756,
+        "avg_high_group": 0.198,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.198
+    },
+    "Normal_Videos_925_x264": {
+        "highest_interval": [
+            7584,
+            8355
+        ],
+        "highest_avg_score": 0.289,
+        "lowest_interval": [
+            2272,
+            3043
+        ],
+        "lowest_avg_score": 0.031,
+        "std": 0.13152,
+        "avg_high_group": 0.246,
+        "avg_low_group": 0.01,
+        "gap_high_low": 0.236
+    },
+    "Normal_Videos_939_x264": {
+        "highest_interval": [
+            752,
+            1052
+        ],
+        "highest_avg_score": 0.225,
+        "lowest_interval": [
+            800,
+            1100
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.12583,
+        "avg_high_group": 0.243,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.229
+    },
+    "Normal_Videos_717_x264": {
+        "highest_interval": [
+            1232,
+            1532
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.09956,
+        "avg_high_group": 0.212,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.206
+    },
+    "Normal_Videos_704_x264": {
+        "highest_interval": [
+            1072,
+            1372
+        ],
+        "highest_avg_score": 0.153,
+        "lowest_interval": [
+            768,
+            1068
+        ],
+        "lowest_avg_score": 0.037,
+        "std": 0.12193,
+        "avg_high_group": 0.22,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.22
+    },
+    "Normal_Videos_885_x264": {
+        "highest_interval": [
+            432,
+            732
+        ],
+        "highest_avg_score": 0.067,
+        "lowest_interval": [
+            448,
+            748
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Explosion010_x264": {
+        "highest_interval": [
+            160,
+            460
+        ],
+        "highest_avg_score": 0.495,
+        "lowest_interval": [
+            2496,
+            2796
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.25376,
+        "avg_high_group": 0.518,
+        "avg_low_group": 0.044,
+        "gap_high_low": 0.474
+    },
+    "Robbery050_x264": {
+        "highest_interval": [
+            1696,
+            1996
+        ],
+        "highest_avg_score": 0.3,
+        "lowest_interval": [
+            96,
+            396
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.14905,
+        "avg_high_group": 0.256,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.24
+    },
+    "Normal_Videos_936_x264": {
+        "highest_interval": [
+            576,
+            876
+        ],
+        "highest_avg_score": 0.116,
+        "lowest_interval": [
+            1040,
+            1340
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09565,
+        "avg_high_group": 0.217,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.217
+    },
+    "Normal_Videos_203_x264": {
+        "highest_interval": [
+            672,
+            972
+        ],
+        "highest_avg_score": 0.247,
+        "lowest_interval": [
+            2496,
+            2796
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.14403,
+        "avg_high_group": 0.259,
+        "avg_low_group": 0.003,
+        "gap_high_low": 0.256
+    },
+    "Shoplifting037_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.237,
+        "lowest_interval": [
+            416,
+            716
+        ],
+        "lowest_avg_score": 0.084,
+        "std": 0.16206,
+        "avg_high_group": 0.265,
+        "avg_low_group": 0.009,
+        "gap_high_low": 0.257
+    },
+    "Normal_Videos_910_x264": {
+        "highest_interval": [
+            528,
+            828
+        ],
+        "highest_avg_score": 0.1,
+        "lowest_interval": [
+            560,
+            860
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08937,
+        "avg_high_group": 0.175,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.175
+    },
+    "Shoplifting028_x264": {
+        "highest_interval": [
+            720,
+            1020
+        ],
+        "highest_avg_score": 0.279,
+        "lowest_interval": [
+            1264,
+            1564
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.21875,
+        "avg_high_group": 0.318,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.302
+    },
+    "Arrest039_x264": {
+        "highest_interval": [
+            15824,
+            17406
+        ],
+        "highest_avg_score": 0.8,
+        "lowest_interval": [
+            3056,
+            4638
+        ],
+        "lowest_avg_score": 0.089,
+        "std": 0.2456,
+        "avg_high_group": 0.693,
+        "avg_low_group": 0.152,
+        "gap_high_low": 0.541
+    },
+    "Normal_Videos_880_x264": {
+        "highest_interval": [
+            3168,
+            4972
+        ],
+        "highest_avg_score": 0.064,
+        "lowest_interval": [
+            17984,
+            19788
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.06841,
+        "avg_high_group": 0.176,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.176
+    },
+    "Normal_Videos_453_x264": {
+        "highest_interval": [
+            5280,
+            5811
+        ],
+        "highest_avg_score": 0.233,
+        "lowest_interval": [
+            4368,
+            4899
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.13976,
+        "avg_high_group": 0.232,
+        "avg_low_group": 0.008,
+        "gap_high_low": 0.225
+    },
+    "Normal_Videos_003_x264": {
+        "highest_interval": [
+            2816,
+            3116
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            1088,
+            1388
+        ],
+        "lowest_avg_score": 0.011,
+        "std": 0.09374,
+        "avg_high_group": 0.21,
+        "avg_low_group": 0.016,
+        "gap_high_low": 0.195
+    },
+    "Shooting010_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.268,
+        "lowest_interval": [
+            1600,
+            1900
+        ],
+        "lowest_avg_score": 0.1,
+        "std": 0.14226,
+        "avg_high_group": 0.25,
+        "avg_low_group": 0.018,
+        "gap_high_low": 0.232
+    },
+    "Shooting047_x264": {
+        "highest_interval": [
+            4688,
+            5515
+        ],
+        "highest_avg_score": 0.492,
+        "lowest_interval": [
+            8240,
+            9067
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.22564,
+        "avg_high_group": 0.473,
+        "avg_low_group": 0.098,
+        "gap_high_low": 0.375
+    },
+    "Normal_Videos_189_x264": {
+        "highest_interval": [
+            704,
+            1004
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            400,
+            700
+        ],
+        "lowest_avg_score": 0.047,
+        "std": 0.12875,
+        "avg_high_group": 0.247,
+        "avg_low_group": 0.007,
+        "gap_high_low": 0.24
+    },
+    "Normal_Videos_866_x264": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.289,
+        "lowest_interval": [
+            704,
+            1004
+        ],
+        "lowest_avg_score": 0.111,
+        "std": 0.1598,
+        "avg_high_group": 0.276,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.264
+    },
+    "Shooting037_x264": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.333,
+        "lowest_interval": [
+            304,
+            604
+        ],
+        "lowest_avg_score": 0.2,
+        "std": 0.10724,
+        "avg_high_group": 0.344,
+        "avg_low_group": 0.173,
+        "gap_high_low": 0.172
+    },
+    "Explosion028_x264": {
+        "highest_interval": [
+            944,
+            1244
+        ],
+        "highest_avg_score": 0.374,
+        "lowest_interval": [
+            528,
+            828
+        ],
+        "lowest_avg_score": 0.032,
+        "std": 0.20037,
+        "avg_high_group": 0.533,
+        "avg_low_group": 0.062,
+        "gap_high_low": 0.471
+    },
+    "Normal_Videos_014_x264": {
+        "highest_interval": [
+            16,
+            316
+        ],
+        "highest_avg_score": 0.258,
+        "lowest_interval": [
+            1344,
+            1644
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.1649,
+        "avg_high_group": 0.3,
+        "avg_low_group": 0.006,
+        "gap_high_low": 0.294
+    },
+    "Shoplifting017_x264": {
+        "highest_interval": [
+            240,
+            540
+        ],
+        "highest_avg_score": 0.207,
+        "lowest_interval": [
+            336,
+            636
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.22209,
+        "avg_high_group": 0.323,
+        "avg_low_group": 0.025,
+        "gap_high_low": 0.298
+    },
+    "Normal_Videos_710_x264": {
+        "highest_interval": [
+            1792,
+            2092
+        ],
+        "highest_avg_score": 0.4,
+        "lowest_interval": [
+            1472,
+            1772
+        ],
+        "lowest_avg_score": 0.063,
+        "std": 0.12123,
+        "avg_high_group": 0.326,
+        "avg_low_group": 0.11,
+        "gap_high_low": 0.217
+    },
+    "Normal_Videos_828_x264": {
+        "highest_interval": [
+            384,
+            684
+        ],
+        "highest_avg_score": 0.132,
+        "lowest_interval": [
+            928,
+            1228
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.09218,
+        "avg_high_group": 0.17,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.17
+    },
+    "RoadAccidents002_x264": {
+        "highest_interval": [
+            272,
+            572
+        ],
+        "highest_avg_score": 0.8,
+        "lowest_interval": [
+            0,
+            300
+        ],
+        "lowest_avg_score": 0.263,
+        "std": 0.32778,
+        "avg_high_group": 0.8,
+        "avg_low_group": 0.15,
+        "gap_high_low": 0.65
+    },
+    "Normal_Videos_217_x264": {
+        "highest_interval": [
+            80,
+            380
+        ],
+        "highest_avg_score": 0.174,
+        "lowest_interval": [
+            1776,
+            2076
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.10478,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.2
+    },
+    "Arson007_x264": {
+        "highest_interval": [
+            6240,
+            6864
+        ],
+        "highest_avg_score": 0.5,
+        "lowest_interval": [
+            4816,
+            5440
+        ],
+        "lowest_avg_score": 0.008,
+        "std": 0.13041,
+        "avg_high_group": 0.413,
+        "avg_low_group": 0.046,
+        "gap_high_low": 0.367
+    },
+    "Normal_Videos_019_x264": {
+        "highest_interval": [
+            1440,
+            1740
+        ],
+        "highest_avg_score": 0.274,
+        "lowest_interval": [
+            160,
+            460
+        ],
+        "lowest_avg_score": 0.005,
+        "std": 0.17368,
+        "avg_high_group": 0.291,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.278
+    },
+    "Normal_Videos_067_x264": {
+        "highest_interval": [
+            1056,
+            1356
+        ],
+        "highest_avg_score": 0.2,
+        "lowest_interval": [
+            944,
+            1244
+        ],
+        "lowest_avg_score": 0.05,
+        "std": 0.09198,
+        "avg_high_group": 0.2,
+        "avg_low_group": 0.013,
+        "gap_high_low": 0.187
+    },
+    "Normal_Videos_930_x264": {
+        "highest_interval": [
+            16,
+            334
+        ],
+        "highest_avg_score": 0.115,
+        "lowest_interval": [
+            3088,
+            3406
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.08713,
+        "avg_high_group": 0.183,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.183
+    },
+    "Normal_Videos_034_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.137,
+        "lowest_interval": [
+            1296,
+            1596
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.11469,
+        "avg_high_group": 0.21,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.21
+    },
+    "Burglary033_x264": {
+        "highest_interval": [
+            32,
+            332
+        ],
+        "highest_avg_score": 0.337,
+        "lowest_interval": [
+            1248,
+            1548
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.17042,
+        "avg_high_group": 0.295,
+        "avg_low_group": 0.014,
+        "gap_high_low": 0.281
+    },
+    "Arrest030_x264": {
+        "highest_interval": [
+            8640,
+            9504
+        ],
+        "highest_avg_score": 0.6,
+        "lowest_interval": [
+            0,
+            864
+        ],
+        "lowest_avg_score": 0.215,
+        "std": 0.26381,
+        "avg_high_group": 0.689,
+        "avg_low_group": 0.209,
+        "gap_high_low": 0.48
+    },
+    "Normal_Videos_906_x264": {
+        "highest_interval": [
+            0,
+            300
+        ],
+        "highest_avg_score": 0.116,
+        "lowest_interval": [
+            672,
+            972
+        ],
+        "lowest_avg_score": 0.0,
+        "std": 0.15534,
+        "avg_high_group": 0.28,
+        "avg_low_group": 0.0,
+        "gap_high_low": 0.28
+    }
+}
