@@ -46,7 +46,7 @@ We have provided preprocessed annotation files following formats in previous wor
 ## Environment
 Install the Python dependencies with ``pip install -r requirements.txt``. For experiment using simplest backbone model ``VideoLLaMA3-7B, Llama3.1-8B``, we recommend to use a machine with GPU Memory > 24GB.
 
-For Llama3.1-8B model, you need to get the model from [here](https://github.com/meta-llama/llama3). Our code assumes Llama3 repo is placed under ``./libs/``. And the ``.pth`` files for model checkpoints is placed inside the repo as ``./libs/llama3/llama3.1-8b``.
+For Llama3.1-8B model, you need to get the model from [here](https://github.com/meta-llama/llama3). Our code assumes Llama3 repo is placed under ``./libs/``. And the ``.pth`` files for model checkpoints is placed inside the repo as ``./libs/llama/llama3.1-8b``.
 
 That is, we expect model code/files should be organized as:
 
@@ -122,3 +122,4 @@ url={https://openreview.net/forum?id=Qla5PqFL0s}
 }
 
 ```
+
