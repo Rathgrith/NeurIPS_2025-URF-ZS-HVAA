@@ -35,7 +35,7 @@ processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-7B-Instruct")
 # ---------------------------------
 # 1) Load the JSON for Video-Level Anomalies
 # ---------------------------------
-with open("./ucf_crime/suspicious_part_phrases.json", "r") as f:
+with open("./data/ucf_crime/suspicious_part_phrases.json", "r") as f:
     video_anomaly_map = json.load(f)
 
 
@@ -268,7 +268,7 @@ class AnomalyDataset(Dataset):
 if __name__ == "__main__":
 
     # 1) Load bounding-box annotation dictionary
-    with open("Test_annotation_modified.pkl", "rb") as f:
+    with open("Test_annotation_aligned.pkl", "rb") as f:
         annotation_dict = pickle.load(f)
     
     # 2) Create dataset & dataloader
