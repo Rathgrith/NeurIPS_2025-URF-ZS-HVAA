@@ -8,14 +8,14 @@ batch_size=16
 # SET TO NONE if you what adaptive margin
 threshold=0.05
 frame_interval=16
-vlm_name="videollama3_7B"
+vlm_name="videollama3"
 exp_name="WHATEVER_YOU_HAVE_RUN_IN_CAPTION_STEP"
 dataset_prior="or criminal"
 
 optimal_scores_dir="${dataset_dir}/scores/${vlm_name}"
 refined_scores_dir="${dataset_dir}/refined_scores/${vlm_name}"
 suspicious_phrases_json="${dataset_dir}/scores/suspicious_part_phrases.json"
-score_window_file="${dataset_dir}/scores/highest_lowest_intervals.json"
+score_window_file="${dataset_dir}/scores/${vlm_name}/highest_lowest_intervals.json"
 
 mkdir -p "${refined_scores_dir}"
 

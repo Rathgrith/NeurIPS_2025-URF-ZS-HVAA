@@ -2,18 +2,6 @@ import json
 from pathlib import Path
 
 import numpy as np
-from scipy.ndimage import gaussian_filter1d
-
-
-def smooth_scores(scores, sigma=10):
-    frames_int = sorted(map(int, scores.keys()))
-    if not frames_int:
-        return {}
-    arr = np.zeros(frames_int[-1] + 1, dtype=np.float32)
-    for f in frames_int:
-        arr[f] = scores[str(f)]
-    smoothed = gaussian_filter1d(arr, sigma=sigma)
-    return {str(f): float(smoothed[f]) for f in frames_int}
 
 
 def find_extreme_intervals(scores):
@@ -42,20 +30,6 @@ def find_extreme_intervals(scores):
 
     return best_s, best_e, best_avg, worst_s, worst_e, worst_avg
 
-
-def pick_top_frames(scores, k=16, min_distance=30):
-    ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    chosen = []
-    for frame_str, _ in ranked:
-        idx = int(frame_str)
-        if all(abs(idx - c) >= min_distance for c in chosen):
-            chosen.append(idx)
-            if len(chosen) == k:
-                break
-    return sorted(chosen)
-
-
-
 def group_stats(all_scores, best_avg, worst_avg):
     'Return std_dev, avg_high_group, avg_low_group, gap.'
     vals = np.array(list(all_scores.values()), dtype=np.float32)
@@ -77,7 +51,7 @@ def group_stats(all_scores, best_avg, worst_avg):
 
 def main():
     dataset_dir = Path('./data/ucf_crime')
-    vlm_name = 'videollama3_8B'
+    vlm_name = 'videollama3'
     score_dir = dataset_dir / 'scores' / vlm_name
     intervals_output_json = score_dir / 'highest_lowest_intervals.json'
 
@@ -99,10 +73,6 @@ def main():
         base_name = json_file.stem
         best_s, best_e, best_avg, worst_s, worst_e, worst_avg = find_extreme_intervals(raw_scores)
         std, avg_high, avg_low, gap = group_stats(raw_scores, best_avg, worst_avg)
-
-        smoothed = smooth_scores(raw_scores)
-        top_frames = pick_top_frames(smoothed, k=16, min_distance=30)
-
         intervals_results[base_name] = {
             'highest_interval': [best_s, best_e],
             'highest_avg_score': round(best_avg, 3),
@@ -112,7 +82,6 @@ def main():
             'avg_high_group': round(avg_high, 3),
             'avg_low_group': round(avg_low, 3),
             'gap_high_low': round(gap, 3),
-            'top_scored_frames': top_frames,
         }
 
     with intervals_output_json.open('w') as f:

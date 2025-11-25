@@ -3,7 +3,7 @@ export OMP_NUM_THREADS=8
 
 dataset_dir="./data/UBNormal"
 llm_model_name="llama3.1-8b"
-vlm_name="videollama3_7B"
+vlm_name="videollama3"
 frame_interval=16
 video_fps=30
 

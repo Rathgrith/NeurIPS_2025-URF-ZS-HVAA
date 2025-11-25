@@ -1,13 +1,13 @@
 #!/bin/bash
 export OMP_NUM_THREADS=8
-export CUDA_VISIBLE_DEVICES=0,1
+export CUDA_VISIBLE_DEVICES=0
 
 dataset_dir="./data/ucf_crime"
 llm_model_name="llama3.1-8b"
 
 batch_size=32
 frame_interval=16
-vlm_name="videollama3_7B"
+vlm_name="video_llama3"
 
 echo "Processing index: ${vlm_name}"
 
@@ -16,8 +16,8 @@ annotationfile_path="${dataset_dir}/annotations/test.txt"
 context_prompt="How would you rate the scene described on a scale from 0 to 1, with 0 representing a standard scene and 1 denoting a scene with suspicious activities or potentially criminal activities?"
 format_prompt="Please provide the response in the form of a Python list and respond with only one number in the provided list below [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0] without any textual explanation. It should begin with '[' and end with ']'."
 
-output_scores_dir="${dataset_dir}/scores/${vlm_name}"
-captions_dir="${dataset_dir}/captions/${vlm_name}"
+output_scores_dir="${dataset_dir}/scores_test/${vlm_name}"
+captions_dir="${dataset_dir}/captions/${vlm_name}_json_results"
 
 mkdir -p "${output_scores_dir}"
 

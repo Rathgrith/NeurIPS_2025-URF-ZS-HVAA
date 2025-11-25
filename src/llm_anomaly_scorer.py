@@ -7,7 +7,7 @@ from typing import List
 import numpy as np
 from tqdm import tqdm
 
-from libs.llama3.llama import Dialog, Llama
+from libs.llama.llama import Dialog, Llama
 from src.data.video_record import VideoRecord
 from src.utils.path_utils import find_unprocessed_videos
 

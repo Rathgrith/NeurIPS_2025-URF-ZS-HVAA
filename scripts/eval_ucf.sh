@@ -3,14 +3,14 @@ export OMP_NUM_THREADS=8
 
 dataset_dir="./data/ucf_crime"
 llm_model_name="llama3.1-8b"
-vlm_name="videollama3_7B"
+vlm_name="videollama3"
 frame_interval=16
 video_fps=30
 
 root_path="${dataset_dir}/frames"
 annotationfile_path="${dataset_dir}/annotations/test.txt"
 
-scores_dir="${dataset_dir}/refined_scores/${vlm_name}"
+scores_dir="${dataset_dir}/scores/${vlm_name}"
 captions_dir="${dataset_dir}/captions/${vlm_name}"
 output_dir="${scores_dir}/metrics"
 
