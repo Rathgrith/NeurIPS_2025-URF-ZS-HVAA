@@ -46,7 +46,7 @@ We have provided preprocessed annotation files following formats in previous wor
 ## Environment
 Install the Python dependencies with ``pip install -r requirements.txt``. For experiment using simplest backbone model ``VideoLLaMA3-7B, Llama3.1-8B-Instruct``, we recommend to use a machine with GPU Memory > 24GB.
 
-For Llama3.1-8B model, you need to get the model checkpoint from [here]([https://github.com/meta-llama/llama3](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main/original). The checkpoint file ```consolidated.00.pth``` should have a SHA256="ab33d910f405204e5d388bc3521503584800461dc96808e287821dd451c1edac". (You can also download the file from [here](https://www.modelscope.cn/models/LLM-Research/Meta-Llama-3.1-8B-Instruct/files).) Our code assumes Llama3 repo is placed under ``./libs/``. And the ``.pth`` files for model checkpoints is placed inside the repo as ``./libs/llama/llama3.1-8b``.
+For Llama3.1-8B model, you need to get the model checkpoint from [here](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct/tree/main/original) . The checkpoint file ```consolidated.00.pth``` should have a SHA256="ab33d910f405204e5d388bc3521503584800461dc96808e287821dd451c1edac". (You can also download the file from [here](https://www.modelscope.cn/models/LLM-Research/Meta-Llama-3.1-8B-Instruct/files).) Our code assumes Llama3 repo is placed under ``./libs/``. And the ``.pth`` files for model checkpoints is placed inside the repo as ``./libs/llama/llama3.1-8b``.
 
 That is, we expect model code/files should be organized as:
 
@@ -122,5 +122,6 @@ url={https://openreview.net/forum?id=Qla5PqFL0s}
 }
 
 ```
+
 
 
