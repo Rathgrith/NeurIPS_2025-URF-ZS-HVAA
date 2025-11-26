@@ -4,7 +4,19 @@ import json
 import cv2
 from transformers import AutoModelForCausalLM, AutoProcessor
 from tqdm import tqdm
-device = "cuda:0"
+import numpy as np
+import random
+
+SEED = 3306
+torch.manual_seed(SEED)
+np.random.seed(SEED)
+
+random.seed(SEED)
+
+if torch.cuda.is_available():
+    device = "cuda:0"
+    torch.cuda.manual_seed_all(SEED)
+
 def load_model():
     model_path = "DAMO-NLP-SG/VideoLLaMA3-7B"
     model = AutoModelForCausalLM.from_pretrained(

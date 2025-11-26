@@ -10,6 +10,19 @@ from tqdm import tqdm
 from libs.llama.llama import Dialog, Llama
 from src.data.video_record import VideoRecord
 from src.utils.path_utils import find_unprocessed_videos
+import torch
+import random
+
+DEFAULT_SEED = 1
+
+
+def set_seed(seed: int) -> None:
+    torch.manual_seed(seed)
+    np.random.seed(seed)
+    random.seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+
 
 
 class LLMAnomalyScorer:
@@ -29,6 +42,7 @@ class LLMAnomalyScorer:
         top_p,
         max_seq_len,
         max_gen_len,
+        seed,
     ):
         self.root_path = root_path
         self.annotationfile_path = annotationfile_path
@@ -44,12 +58,14 @@ class LLMAnomalyScorer:
         self.top_p = top_p
         self.max_seq_len = max_seq_len
         self.max_gen_len = max_gen_len
+        self.seed = seed
 
         self.generator = Llama.build(
             ckpt_dir=self.ckpt_dir,
             tokenizer_path=self.tokenizer_path,
             max_seq_len=self.max_seq_len,
             max_batch_size=self.batch_size,
+            seed=self.seed,
         )
 
     def _prepare_dialogs(self, captions, batch_frame_idxs):
@@ -145,7 +161,10 @@ def run(
     pathname,
     num_jobs,
     job_index,
+    seed,
 ):
+    set_seed(seed)
+
     output_scores_dir = Path(output_scores_dir)
     output_scores_dir.mkdir(parents=True, exist_ok=True)
     with open(output_scores_dir / "context_prompt.txt", "w") as f:
@@ -175,6 +194,7 @@ def run(
         top_p=top_p,
         max_seq_len=max_seq_len,
         max_gen_len=max_gen_len,
+        seed=seed,
     )
 
     for video in video_list:
@@ -201,10 +221,16 @@ def parse_args():
     parser.add_argument("--pathname", type=str, default="*.json")
     parser.add_argument("--num_jobs", type=int, default=1)
     parser.add_argument("--job_index", type=int, default=0)
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=DEFAULT_SEED,
+        help="Random seed for reproducibility.",
+    )
 
     args = parser.parse_args()
 
-    return parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":
@@ -228,4 +254,5 @@ if __name__ == "__main__":
         pathname=args.pathname,
         num_jobs=args.num_jobs,
         job_index=args.job_index,
+        seed=args.seed,
     )

@@ -5,11 +5,11 @@ export CUDA_VISIBLE_DEVICES=0,1
 dataset_dir="./data/ucf_crime"
 llm_model_name="llama3.1-8b"
 batch_size=16
-threshold=0.05
 frame_interval=16
 vlm_name="videollama3"
 exp_name="WHATEVER_YOU_HAVE_RUN_IN_CAPTION_STEP"
 dataset_prior="or criminal"
+seed=1
 
 optimal_scores_dir="${dataset_dir}/scores/${vlm_name}"
 refined_scores_dir="${dataset_dir}/refined_scores/${vlm_name}"
@@ -44,6 +44,11 @@ torchrun \
     --tokenizer_path ./libs/llama/llama3.1-8b/tokenizer.model \
     --suspicious_phrases_json "${suspicious_phrases_json}" \
     --highest_lowest_json "${score_window_file}" \
-    --threshold "${threshold}"
-# UNSET threshold if you what adaptive margin
+    --seed "${seed}" \
+    --threshold 0.05  
+    # threshold here means margin values for score gates in IntraTR,
+    # UNSET threshold if you what adaptive margin, 
+    # For constant margin values, a rule of thumb is to set it between 0.1-0.2 can get stable gains on all datasets,
+    # 0.05 is unstable but very efficient in time and it can lead to substantial improvements on UCF-Crime.
+    # see table 7 in the appendix to see the trade-off.
 cp -n "${optimal_scores_dir}"/*.json "${refined_scores_dir}"/

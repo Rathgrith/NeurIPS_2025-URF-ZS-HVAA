@@ -10,6 +10,18 @@ from tqdm import tqdm
 from libs.llama.llama import Dialog, Llama
 from src.data.video_record import VideoRecord
 from src.utils.path_utils import find_unprocessed_videos
+import torch
+import random
+
+DEFAULT_SEED = 1
+
+
+def set_seed(seed: int) -> None:
+    torch.manual_seed(seed)
+    np.random.seed(seed)
+    random.seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
 
 
 def clean_suspicious_phrase(phrase: str) -> str:
@@ -46,6 +58,7 @@ class LLMAnomalyScorerLocalOptimal:
         threshold=None,
         suspicious_phrases_json=None,
         highest_lowest_json=None,  # <-- NEW: pass path to your JSON with highest_avg_score
+        seed=DEFAULT_SEED,
     ):
         self.root_path = root_path
         self.annotationfile_path = annotationfile_path
@@ -62,12 +75,14 @@ class LLMAnomalyScorerLocalOptimal:
         self.max_seq_len = max_seq_len
         self.max_gen_len = max_gen_len
         self.threshold = threshold
+        self.seed = seed
 
         self.generator = Llama.build(
             ckpt_dir=self.ckpt_dir,
             tokenizer_path=self.tokenizer_path,
             max_seq_len=self.max_seq_len,
             max_batch_size=self.batch_size,
+            seed=self.seed,
         )
 
         # Load suspicious phrases, if provided
@@ -293,8 +308,11 @@ def run(
     threshold=None,
     suspicious_phrases_json=None,
     highest_lowest_json=None,  
+    seed=DEFAULT_SEED,
     
 ):
+    set_seed(seed)
+
     # Save prompts for reproducibility
     Path(output_scores_dir).mkdir(parents=True, exist_ok=True)
     with open(Path(output_scores_dir) / "context_prompt.txt", "w") as f:
@@ -334,6 +352,7 @@ def run(
         threshold=threshold,
         suspicious_phrases_json=suspicious_phrases_json,
         highest_lowest_json=highest_lowest_json,  # pass the JSON
+        seed=seed,
     )
 
     for video in tqdm(video_list):
@@ -378,6 +397,12 @@ def parse_args():
         default=None,
         help="margin threshold"
     )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=DEFAULT_SEED,
+        help="Random seed for reproducibility."
+    )
     args = parser.parse_args()
 
 
@@ -410,4 +435,5 @@ if __name__ == "__main__":
         threshold=args.threshold,
         suspicious_phrases_json=args.suspicious_phrases_json,
         highest_lowest_json=args.highest_lowest_json,  # pass to main run
+        seed=args.seed,
     )
