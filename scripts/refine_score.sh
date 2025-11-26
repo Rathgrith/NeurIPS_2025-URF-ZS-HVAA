@@ -5,7 +5,6 @@ export CUDA_VISIBLE_DEVICES=0,1
 dataset_dir="./data/ucf_crime"
 llm_model_name="llama3.1-8b"
 batch_size=16
-# SET TO NONE if you what adaptive margin
 threshold=0.05
 frame_interval=16
 vlm_name="videollama3"
@@ -46,5 +45,5 @@ torchrun \
     --suspicious_phrases_json "${suspicious_phrases_json}" \
     --highest_lowest_json "${score_window_file}" \
     --threshold "${threshold}"
-
+# UNSET threshold if you what adaptive margin
 cp -n "${optimal_scores_dir}"/*.json "${refined_scores_dir}"/
