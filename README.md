@@ -22,7 +22,9 @@ conda activate VAA
 
 ### Dataset
 
-We have provided preprocessed annotation files following formats in previous work (thanks to [LAVAD](https://github.com/lucazanella/lavad)) for easier setup. Before running the code, make sure you have downloaded the raw videos under ``./data/{dataset_name}/videos`` and run the provided frame extraction script to extract frames to ``./data/{dataset_name}/videos``. The extracted data should have structures like this.
+We have provided preprocessed annotation files following formats in previous work (thanks to [LAVAD](https://github.com/lucazanella/lavad)) for easier setup, please download them from [Google Drive](https://drive.google.com/file/d/1jULt7PKZDTronu4eqiMwCqteKRjjVlmn/view?usp=sharing). 
+
+Before running the code, make sure you have downloaded the raw videos under ``./data/{dataset_name}/videos`` and run the provided frame extraction script to extract frames to ``./data/{dataset_name}/videos``. The final data should have structures like this.
 ```
 ./data/
 {dataset_name}/
@@ -130,6 +132,7 @@ url={https://openreview.net/forum?id=Qla5PqFL0s}
 }
 
 ```
+
 
 
 
