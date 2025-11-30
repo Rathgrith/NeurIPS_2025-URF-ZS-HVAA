@@ -137,7 +137,7 @@ def process_video(video_path, video_name, model, processor, anomaly_data):
                 "content": (
                     "You are an AI assistant analyzing a video. "
                     "For better anomaly detection and description in detail, a preliminary analysis suggests that the suspicious activity could be related to [{suspicious_phrases}]. "
-                    "Use these information to guide your analysis."
+                    "Use these information to guide your anomaly detection analysis."
                 ).format(probability_percent=probability_percent, suspicious_phrases=suspicious_phrases)
             },
             {
@@ -236,7 +236,7 @@ if __name__ == "__main__":
     output_json = "responses_video_llama3_16_InterTC_replication_full_bbox0.5.json"
     # Load anomaly data
     highest_lowest_json = "highest_lowest_intervals_ucf_final.json"
-    suspicious_phrases_json = "suspicious_part_phrases_ucf_crime_sus_prior.json"
+    suspicious_phrases_json = "suspicious_part_phrases.json"
     # uncomment for xd_violence
     anomaly_data = load_anomaly_data(highest_lowest_json, suspicious_phrases_json)
 
